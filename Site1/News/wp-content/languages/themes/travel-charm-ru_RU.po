@@ -1,0 +1,189 @@
+# Translation of Themes - Travel Charm in Russian
+# This file is distributed under the same license as the Themes - Travel Charm package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-02 14:36:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Travel Charm\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Travel Charm is a WordPress theme to create an online booking website for tour and travel agencies. The theme is compatible with the WP Travel Engine, a plugin that makes booking travel and tours easy. With this theme, you can add trips, destinations, and trip types, feature travel activities, highlight your specialities and allow visitors to book the trips. The theme is SEO-optimized, mobile-friendly, and loads fast, so your website can rank higher on search engines. The Travel Charm theme can be used not only for travel booking companies but also for travel blogging, hotel and spa reservation, bed and breakfast, luxury resorts, reservations, tourism transport, and car rental businesses. Check the demo at https://rarathemes.com/previews/?theme=travel-charm, documentation at https://docs.rarathemes.com/docs/travel-charm/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "Travel Charm - это тема WordPress для создания сайта онлайн-бронирования туров и туристических агентств. Тема совместима с WP Travel Engine, плагином, упрощающим бронирование путешествий и туров. С помощью этой темы вы можете добавлять поездки, направления и типы поездок, рассказывать о туристических мероприятиях, подчеркивать свои особенности и позволять посетителям бронировать поездки. Тема SEO-оптимизирована, удобна для мобильных устройств и быстро загружается, что позволяет вашему сайту занимать более высокие позиции в поисковых системах. Тема Travel Charm может быть использована не только для компаний, занимающихся бронированием путешествий, но и для ведения туристических блогов, бронирования отелей и спа-салонов, гостиниц, отелей типа \"постель и завтрак\", элитных курортов, резерваций, туристического транспорта и предприятий, занимающихся прокатом автомобилей. Ознакомьтесь с демо-версией на сайте https://rarathemes.com/previews/?theme=travel-charm, документацией на сайте https://docs.rarathemes.com/docs/travel-charm/, а также получите поддержку на сайте https://rarathemes.com/support-ticket/."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Travel Charm"
+msgstr "Travel Charm"
+
+#: inc/pluggable-functions.php:199
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: inc/pluggable-functions.php:199
+msgid " Powered by %s"
+msgstr " На платформе %s"
+
+#: inc/pluggable-functions.php:197
+msgid "Rara Themes"
+msgstr "Темы Rara"
+
+#: inc/pluggable-functions.php:196
+msgid "Travel Charm | Developed By "
+msgstr "Travel Charm | Разработана "
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/pluggable-functions.php:164
+msgctxt "Barlow font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/pluggable-functions.php:159
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/pluggable-functions.php:98
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: inc/pluggable-functions.php:95
+msgid "CLOSE"
+msgstr "ЗАКРЫТЬ"
+
+#: inc/pluggable-functions.php:91
+msgid "MENU"
+msgstr "МЕНЮ"
+
+#: inc/customizer-functions.php:148
+msgid "Enable to show social links in header."
+msgstr "Включить, чтобы показывать ссыли соцсети в заголовке."
+
+#: inc/customizer-functions.php:147
+msgid "Social Links"
+msgstr "Ссылки соцсетей"
+
+#: inc/customizer-functions.php:128
+msgid "Enable to show search form in header."
+msgstr "Включить, чтобы показывать форму поиска в заголовке."
+
+#: inc/customizer-functions.php:127
+msgid "Search Form"
+msgstr "Форма поиска"
+
+#: inc/customizer-functions.php:102
+msgid "Add phone label in header."
+msgstr "Добавьте этикетку телефона в заголовок."
+
+#: inc/customizer-functions.php:101
+msgid "Phone Label"
+msgstr "Этикетка телефона"
+
+#: inc/customizer-functions.php:77
+msgid "Add phone number in header."
+msgstr "Добавить номер телефона в заголовок."
+
+#: inc/customizer-functions.php:76
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: inc/customizer-functions.php:52
+msgid "Add email in header."
+msgstr "Добавить email в заголовок."
+
+#: inc/customizer-functions.php:51
+msgid "Email"
+msgstr "Email"
+
+#: inc/customizer-functions.php:27
+msgid "Add working hour in header."
+msgstr "Добавить часы работы в заголовок."
+
+#: inc/customizer-functions.php:26
+msgid "Work Hour"
+msgstr "Часы роботы"
+
+#: functions.php:115
+msgid "Click here"
+msgstr "Нажмите здесь"
+
+#: functions.php:115
+msgid "Download Demo Content"
+msgstr "Загрузить демо содержимое"
+
+#: functions.php:112
+msgid "Rara One Click Demo Import"
+msgstr "Rara One Click Demo Import"
+
+#: functions.php:112
+msgid "Plugin required"
+msgstr "Требуется плагин"
+
+#: functions.php:102
+msgid "About Demo Import"
+msgstr "О программе Demo Importer"
+
+#: functions.php:95
+msgid "Travel Charm comes with demo content import feature. You can import the demo content with just one click. For step-by-step video tutorial, %1$sClick here%2$s"
+msgstr "Travel Charm имеет функцию импорта демонстрационного контента. Вы можете импортировать демонстрационный контент одним щелчком мыши. Для получения пошаговой видеоинструкции %1$s Нажмите здесь%2$s"
+
+#: functions.php:83
+msgid "Demo Content Import"
+msgstr "Импорт демонстрационного содержимого"
+
+#: functions.php:72
+msgid "About Travel Charm"
+msgstr "О теме Travel Charm"
+
+#: functions.php:66
+msgid "More Details"
+msgstr "Подробно"
+
+#: functions.php:65
+msgid "Support ticket"
+msgstr "Служба поддержки"
+
+#: functions.php:64
+msgid "View documentation"
+msgstr "Смотреть документацию"
+
+#: functions.php:63 functions.php:64 functions.php:65 functions.php:66
+msgid "here"
+msgstr "здесь"
+
+#: functions.php:63
+msgid "View demo"
+msgstr "Смотреть демонстрацию"
+
+#: functions.php:62
+msgid "Need help?"
+msgstr "Нужна помощь?"
+
+#: functions.php:49
+msgid "Information Links"
+msgstr "Информационные ссылки"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/wordpress-themes/travel-charm/"
+msgstr "https://rarathemes.com/wordpress-themes/travel-charm/"

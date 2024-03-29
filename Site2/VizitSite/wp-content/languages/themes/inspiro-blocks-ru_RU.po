@@ -1,0 +1,1241 @@
+# Translation of Themes - Inspiro Blocks in Russian
+# This file is distributed under the same license as the Themes - Inspiro Blocks package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-06 18:58:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Inspiro Blocks\n"
+
+#. Theme Name of the theme
+#: inc/admin-notice.php:75 inc/classes/class-inspiro-notice-review.php:83
+#, gp-priority: high
+msgid "Inspiro Blocks"
+msgstr "Inspiro Blocks"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Inspiro Blocks is a Block theme that is fully compatible with the new Full Site Editor. The theme includes unique page templates, block patterns, and color styles that can be customized to create a beautiful website. With Inspiro Blocks, you can easily build and design a website by simply dragging and dropping blocks into pages. The theme offers a modern and minimalist design that is perfect for bloggers, photographers, creatives, and small businesses. Inspiro Blocks is also an excellent choice for portfolio sites as it includes video and portfolio integration. This makes it easy for users to showcase their work and create a professional portfolio website. With the portfolio integration feature, users can display their projects in a grid or masonry layout. These features make Inspiro Blocks a great option for photographers, videographers, designers, and other creatives who want to showcase their work in a visually appealing way. The theme is fully GDPR-compliant and doesn't use any external Google Fonts. All fonts are locally hosted. The theme bundles 6 Color Schemes and 20+ Block Patterns. DEMO CONTENT & Documentation can be found here: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#10132; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.wpzoom.com/documentation/inspiro-blocks/"
+msgstr "Inspiro Blocks — это тема блоков, полностью совместимая с новым полнофункциональным редактором сайта. Тема включает в себя уникальные шаблоны страниц, шаблоны блоков и цветовые стили, которые можно настроить для создания красивого веб-сайта. С Inspiro Blocks вы можете легко создавать и оформлять веб-сайты, просто перетаскивая блоки на страницы. Тема предлагает современный и минималистичный дизайн, который идеально подходит для блоггеров, фотографов, креативщиков и малого бизнеса. Inspiro Blocks также является отличным выбором для сайтов-портфолио, поскольку включает интеграцию видео и портфолио. Это позволяет пользователям легко демонстрировать свои работы и создавать сайт профессионального портфолио. Благодаря функции интеграции портфолио пользователи могут отображать свои проекты в виде сетки или кирпичной кладки. Эти функции делают Inspiro Blocks отличным вариантом для фотографов, видеооператоров, дизайнеров и других творческих людей, которые хотят продемонстрировать свою работу в визуально привлекательном виде. Тема полностью соответствует GDPR и не использует внешние шрифты Google. Все шрифты размещены локально. Тема объединяет 6 цветовых схем и более 20 шаблонов блоков. ДЕМО СОДЕРЖАНИЕ и документацию можно найти здесь: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#10132; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.wpzoom.com/documentation/inspiro-blocks/"
+
+#: inc/admin-notice.php:45 inc/classes/class-inspiro-notices.php:126
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Действие не удалось. Пожалуйста обновите страницу и попробуйте снова."
+
+#: inc/theme-info-page.php:190
+msgid "Add a Portfolio Post &rarr;"
+msgstr "Добавить запись портфолио &rarr;"
+
+#: inc/theme-info-page.php:337
+msgid "Advanced WooCommerce Integration"
+msgstr "Расширенная интеграция с WooCommerce"
+
+#: inc/theme-info-page.php:294
+msgid "And many other premium features..."
+msgstr "И многие другие премиальные функции..."
+
+#: inc/theme-info-page.php:308
+msgid "Below is a comparison chart of the free and the premium versions."
+msgstr "Ниже приведена сравнительная таблица бесплатной и премиальной версий."
+
+#: inc/classes/class-inspiro-notices.php:130
+msgid "Cheatin&#8217; huh?"
+msgstr "Эй! Жульничаем?"
+
+#: inc/theme-info-page.php:123
+msgid "Colors & Fonts"
+msgstr "Цвета и шрифты"
+
+#: inc/theme-info-page.php:99
+msgid "Customize & Configure"
+msgstr "Настройка и конфигурация"
+
+#: inc/theme-info-page.php:342
+msgid "Demo Content Importer"
+msgstr "Импорт демо-содержимого"
+
+#: inc/admin-notice.php:70
+msgid "Dismiss this notice."
+msgstr "Скрыть это уведомление."
+
+#: inc/theme-info-page.php:514
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/theme-info-page.php:390
+msgid "Fast Email Support"
+msgstr "Быстрая поддержка по электронной почте"
+
+#: inc/theme-info-page.php:512
+msgid "Documentation is the place where you’ll find the information needed to setup the theme quickly, and other details about theme-specific features. You can also get in touch with our team by contacting us through our website or using the Support Forum."
+msgstr "Документация - место, где вы найдете информацию, необходимую для быстрой настройки темы, а также другие сведения о функциях, специфичных для темы. Вы также можете связаться с нашей командой, связавшись с нами через наш веб-сайт или через форум поддержки."
+
+#: inc/theme-info-page.php:315
+msgid "Feature"
+msgstr "Возможности"
+
+#: inc/theme-info-page.php:378
+msgid "Google Fonts (Hosted Locally)"
+msgstr "Google Fonts (размещено локально)"
+
+#: inc/classes/class-inspiro-notice-review.php:108
+msgid "Hide this notice"
+msgstr "Закрыть это уведомление"
+
+#: inc/theme-info-page.php:202
+msgid "How to Create a Portfolio?"
+msgstr "Как создать портфолио?"
+
+#: inc/theme-info-page.php:201
+msgid "https://www.wpzoom.com/documentation/inspiro-lite/inspiro-lite-how-to-create-a-portfolio-section/"
+msgstr "https://www.wpzoom.com/documentation/inspiro-lite/inspiro-lite-how-to-create-a-portfolio-section/"
+
+#: inc/theme-info-page.php:196
+msgid "Install WPZOOM Portfolio &rarr;"
+msgstr "Установить WPZOOM Portfolio &rarr;"
+
+#: inc/classes/class-inspiro-notice-review.php:106
+msgid "Leave a Review"
+msgstr "Оставить отзыв"
+
+#: inc/theme-info-page.php:282
+msgid "Multiple Header & Footer Layouts"
+msgstr "Несколько макетов шапки и подвала"
+
+#: inc/theme-info-page.php:511
+msgid "Need help?"
+msgstr "Нужна помощь?"
+
+#: inc/theme-info-page.php:179
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: inc/theme-info-page.php:235 inc/theme-info-page.php:353
+msgid "Portfolio with Video Integration"
+msgstr "Портфолио с интеграцией видео"
+
+#: inc/theme-info-page.php:69
+msgid "Premium Demos"
+msgstr "Premium Demos"
+
+#: inc/theme-info-page.php:216
+msgid "Premium Features"
+msgstr "Премиум возможности"
+
+#: inc/theme-info-page.php:242
+msgid "Premium Portfolio Demo &rarr;"
+msgstr "Premium Portfolio Demo &rarr;"
+
+#: inc/theme-info-page.php:65
+msgid "Quick Start"
+msgstr "Быстрый старт"
+
+#: inc/theme-info-page.php:322
+msgid "Responsive Layout"
+msgstr "Адаптивная разметка"
+
+#: inc/theme-info-page.php:126
+msgid "Set up your global colors and fonts to match your site with your brand."
+msgstr "Настройте свои глобальные цвета и шрифты, чтобы ваш сайт соответствовал вашему бренду."
+
+#: inc/theme-info-page.php:164
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+#: inc/theme-info-page.php:348
+msgid "Starter Sites"
+msgstr "Стартовые сайты"
+
+#: inc/theme-info-page.php:528
+msgid "Subscribe for Tips & Tricks"
+msgstr "Подпишитесь на советы и рекомендации"
+
+#: inc/theme-info-page.php:389
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/theme-info-page.php:514
+msgid "Support Forums"
+msgstr "Форумы поддержки"
+
+#: inc/theme-info-page.php:531
+msgid "To ease up the journey you’re starting with Inspiro, we’re sending you some useful tips & tricks to have the best experience building your website."
+msgstr "Чтобы облегчить ваше путешествие с Inspiro, мы присылаем вам несколько полезных советов и рекомендаций. трюки, чтобы получить лучший опыт создания вашего сайта."
+
+#: inc/theme-info-page.php:383
+msgid "Typography Options"
+msgstr "Параметры типографии"
+
+#: inc/theme-info-page.php:496
+msgid "Upgrade to the Premium version to get instant access to unique features and dozen of pre-built demos!"
+msgstr "Обновитесь до версии Premium, чтобы получить мгновенный доступ к уникальным функциям и дюжине готовых демонстраций!"
+
+#: inc/theme-info-page.php:368
+msgid "Video & Image Lightbox for Portfolio Posts"
+msgstr "Лайтбоксы с видео и изображениями для постов портфолио"
+
+#: inc/theme-info-page.php:363
+msgid "Video Background on Hover"
+msgstr "Фон видео при наведении"
+
+#: inc/theme-info-page.php:261
+msgid "With the built-in demo importer, you can quickly import fully configured demos to help you get started. The theme includes beautiful demos to create a business or portfolio website."
+msgstr "С помощью встроенного средства импорта демо вы можете быстро импортировать полностью настроенные демоверсии, которые помогут вам начать работу. Тема включает в себя красивые демонстрации для создания веб-сайта для бизнеса или портфолио."
+
+#: inc/admin-notice.php:49
+msgid "You do not have the necessary permission to perform this action."
+msgstr "К сожалению, для выполнения этого действия у вас нет необходимых разрешений."
+
+#: inc/theme-info-page.php:373
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: functions.php:148
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Внешний пакет плагина не содержит папку с требуемым ярлыком и переименование не сработало."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста, обратитесь к поставщику плагина с просьбой создать пакет своего плагина в соответствии с руководством WordPress."
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Внешний пакет плагина содержит более одного файла вне отдельной папки."
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Каталог WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активирован"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все: <span class=\"count\">(%s)</span>"
+msgstr[1] "Все: <span class=\"count\">(%s)</span>"
+msgstr[2] "Все: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки: <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки: <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление: <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступно обновление: <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступно обновление: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации: <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации: <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации: <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Минимально требуемая версия:"
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Состояние"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активация %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s был успешно установлен."
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/theme-info-page.php:498
+msgid "Inspiro Premium"
+msgstr "Inspiro Premium"
+
+#: inc/theme-info-page.php:388
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагинов."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] "Эта тема требует следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующие плагины: %1$s."
+msgstr[2] "Эта тема рекомендует следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин для максимальной совместимости с темой должен быть обновлен на последюю версию: %1$s."
+msgstr[1] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+msgstr[2] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот требуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти требуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти требуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Этот рекомендуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начало установки плагина"
+msgstr[1] "Начало установки плагинов"
+msgstr[2] "Начало установки плагинов"
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начало обновления плагина"
+msgstr[1] "Начало обновления плагинов"
+msgstr[2] "Начало обновления плагинов"
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начало активации плагина"
+msgstr[1] "Начало активации плагинов"
+msgstr[2] "Начало активации плагинов"
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Этот плагин активирован:"
+msgstr[1] "Эти плагины активированы:"
+msgstr[2] "Эти плагины активированы:"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Пожалуйста, обновите плагин."
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Скрыть эту заметку"
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору этого сайта за помощью."
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Для совместимости с темой требуется обновление этого плагина."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: functions.php:156
+msgid "Header"
+msgstr "Шапка"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать детали"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Portfolio Post"
+msgstr "Запись портфолио"
+
+#: functions.php:92
+msgid "Rounded"
+msgstr "Закругленный"
+
+#: functions.php:97
+msgid "Pull right"
+msgstr "Тянуть вправо"
+
+#: functions.php:98
+msgid "Pull left"
+msgstr "Тянуть влево"
+
+#: functions.php:110
+msgid "Fill"
+msgstr "Заполнить"
+
+#: functions.php:112
+msgid "Outline"
+msgstr "Контур"
+
+#: functions.php:152
+msgid "Sections"
+msgstr "Разделы"
+
+#: functions.php:160
+msgid "Pages"
+msgstr "Страницы"
+
+#: functions.php:164
+msgid "Blog Posts"
+msgstr "Записи в блоге"
+
+#: patterns/hidden-404.php:9
+msgid "Not found, error 404"
+msgstr "Не найдено, ошибка 404"
+
+#: patterns/hidden-404.php:12
+msgid "Oops, the page you are looking for does not exist or is no longer available. Everything is still awesome. Just use the search form to find your way."
+msgstr "К сожалению, страница, которую вы ищете, не существует или больше недоступна. Все по-прежнему круто. Просто используйте форму поиска, чтобы найти свой путь."
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Подвал"
+
+#: patterns/general-cta-button-main-background.php
+msgctxt "Pattern title"
+msgid "Call-to-action with text, button."
+msgstr "Призыв к действию с текстом, кнопка."
+
+#: patterns/general-cta-button.php
+msgctxt "Pattern title"
+msgid "Call-to-action with text, button"
+msgstr "Призыв к действию с текстом, кнопка"
+
+#: patterns/general-pricing-three-columns.php
+msgctxt "Pattern title"
+msgid "Pricing table with list, buttons."
+msgstr "Таблица цен со списком, кнопки."
+
+#: patterns/general-team-two-columns.php
+msgctxt "Pattern title"
+msgid "Team with image, text, social icons."
+msgstr "Команда с изображением, текстом, значками соцсетей."
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header with site title, navigation."
+msgstr "Шапка с названием сайта, навигация."
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404 error content."
+msgstr "404 error content."
+
+#: patterns/page-about.php
+msgctxt "Pattern title"
+msgid "About page"
+msgstr "Страница О нас"
+
+#: patterns/page-blog.php
+msgctxt "Pattern title"
+msgid "Blog page"
+msgstr "Страница блога"
+
+#: patterns/page-contact.php
+msgctxt "Pattern title"
+msgid "Contact"
+msgstr "Контакт"
+
+#: patterns/page-front-page.php
+msgctxt "Pattern title"
+msgid "Homepage"
+msgstr "Главная страница"
+
+#: patterns/query-default.php
+msgctxt "Pattern title"
+msgid "List of posts in one column."
+msgstr "Список записей в один столбец."
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "xLarge"
+msgstr "Огромный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "36px"
+msgstr "36px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "48px"
+msgstr "48px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "60px"
+msgstr "60px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "72px"
+msgstr "72px"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Archivo"
+msgstr "Archivo"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Alegreya"
+msgstr "Alegreya"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Bitter"
+msgstr "Bitter"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Crimson Pro"
+msgstr "Crimson Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Sans"
+msgstr "DM Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Epilogue"
+msgstr "Epilogue"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "IBM Plex Sans"
+msgstr "IBM Plex Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "IBM Plex Mono"
+msgstr "IBM Plex Mono"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Josefin Sans"
+msgstr "Josefin Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Jost"
+msgstr "Jost"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lexend"
+msgstr "Lexend"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Libre Baskerville"
+msgstr "Libre Baskerville"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Libre Franklin"
+msgstr "Libre Franklin"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr "Lora"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Mulish"
+msgstr "Mulish"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Nunito"
+msgstr "Nunito"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Oswald"
+msgstr "Oswald"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Quicksand"
+msgstr "Quicksand"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Raleway"
+msgstr "Raleway"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr "Roboto"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Rubik"
+msgstr "Rubik"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Space Grotesk"
+msgstr "Space Grotesk"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Urbanist"
+msgstr "Urbanist"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Work Sans"
+msgstr "Work Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Yeseva One"
+msgstr "Yeseva One"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Header & Footer"
+msgstr "Шапка и подвал"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "LightGrey"
+msgstr "LightGrey"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний план"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "White"
+msgstr "Белая"
+
+#: theme.json styles/bitter.json styles/epilogue.json styles/montserrat.json
+#: styles/poppins.json styles/yeseva-one.json
+msgctxt "Color name"
+msgid "Light Background"
+msgstr "Светлый фон"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "xSmall"
+msgstr "Очень маленький"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "xLarge"
+msgstr "Огромный"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog"
+msgstr "Блог"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full-width Post"
+msgstr "Запись во всю ширину"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Пустой"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Шапка"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Call-to-action"
+msgstr "Призыв к действию в подвале"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Комментарии"
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: functions.php:111
+msgid "Fill Background"
+msgstr "Заполнить фон"
+
+#: functions.php:113
+msgid "Outline Background"
+msgstr "Контур фона"
+
+#: functions.php:87 functions.php:95 functions.php:101 functions.php:107
+msgid "Shadow"
+msgstr "Тень"
+
+#: functions.php:88 functions.php:96
+msgid "Border"
+msgstr "Рамка"
+
+#: functions.php:89
+msgid "Full-height"
+msgstr "Полная высота"
+
+#: patterns/page-blog-sidebar.php
+msgctxt "Pattern title"
+msgid "Blog page with sidebar"
+msgstr "Страница блога с боковой панелью"
+
+#: patterns/page-services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr "Услуги"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json styles/epilogue.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Black to Tertiary"
+msgstr "От черного до третичного"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with Sidebar"
+msgstr "Страница с боковой панелью"
+
+#: styles/bitter.json
+msgctxt "Style variation name"
+msgid "Bitter"
+msgstr "Bitter"
+
+#: styles/epilogue.json
+msgctxt "Style variation name"
+msgid "Epilogue"
+msgstr "Epilogue"
+
+#: styles/montserrat.json
+msgctxt "Style variation name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: styles/poppins.json
+msgctxt "Style variation name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: styles/yeseva-one.json
+msgctxt "Style variation name"
+msgid "Yeseva One"
+msgstr "Yeseva One"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "xSmall"
+msgstr "Очень маленький"
+
+#: functions.php:143
+msgid "inspiro-blocks"
+msgstr "inspiro-blocks"
+
+#: inc/theme-info-page.php:22
+msgid "Inspiro Blocks Theme"
+msgstr "Тема Inspiro Blocks"
+
+#: patterns/general-testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials with text."
+msgstr "Отзыв с текстом."
+
+#: patterns/header-cover-blog-posts.php
+msgctxt "Pattern title"
+msgid "Header (single posts)"
+msgstr "Шапка (отдельные записи)"
+
+#: patterns/header-default-main-background.php
+msgctxt "Pattern title"
+msgid "Call-to-action with background"
+msgstr "Призыв к действию с фоном"
+
+#: patterns/header-transparent.php
+msgctxt "Pattern title"
+msgid "Header (transparent)"
+msgstr "Шапка (прозрачная)"
+
+#: patterns/pricing-pro.php
+msgctxt "Pattern title"
+msgid "Pricing Table [PRO]"
+msgstr "Таблица цен [PRO]"
+
+#: patterns/query-blog.php
+msgctxt "Pattern title"
+msgid "Classic blog layout"
+msgstr "Классический макет блога"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page with sidebar"
+msgstr "Блог с боковой панелью"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (Transparent)"
+msgstr "Шапка (прозрачная)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (Transparent) in Posts"
+msgstr "Заголовок (прозрачный) в записях"
+
+#: inc/classes/class-inspiro-notice-review.php:87
+msgid "Leave us a review!"
+msgstr "Оставьте нам отзыв!"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "WPZOOM"
+msgstr "WPZOOM"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.wpzoom.com/"
+msgstr "https://www.wpzoom.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.wpzoom.com/themes/inspiro-blocks/"
+msgstr "https://www.wpzoom.com/themes/inspiro-blocks/"

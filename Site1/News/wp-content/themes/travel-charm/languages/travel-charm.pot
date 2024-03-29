@@ -1,0 +1,213 @@
+# <!=Copyright (C) 2022 Rara Theme
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel Charm 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/travel-charm\n"
+"POT-Creation-Date: 2022-11-09 03:23:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:49
+msgid "Information Links"
+msgstr ""
+
+#: functions.php:62
+msgid "Need help?"
+msgstr ""
+
+#: functions.php:63
+msgid "View demo"
+msgstr ""
+
+#: functions.php:63 functions.php:64 functions.php:65 functions.php:66
+msgid "here"
+msgstr ""
+
+#: functions.php:64
+msgid "View documentation"
+msgstr ""
+
+#: functions.php:65
+msgid "Support ticket"
+msgstr ""
+
+#: functions.php:66
+msgid "More Details"
+msgstr ""
+
+#: functions.php:72
+msgid "About Travel Charm"
+msgstr ""
+
+#: functions.php:83
+msgid "Demo Content Import"
+msgstr ""
+
+#: functions.php:95
+msgid ""
+"Travel Charm comes with demo content import feature. You can import the "
+"demo content with just one click. For step-by-step video tutorial, "
+"%1$sClick here%2$s"
+msgstr ""
+
+#: functions.php:102
+msgid "About Demo Import"
+msgstr ""
+
+#: functions.php:112
+msgid "Plugin required"
+msgstr ""
+
+#: functions.php:112
+msgid "Rara One Click Demo Import"
+msgstr ""
+
+#: functions.php:115
+msgid "Download Demo Content"
+msgstr ""
+
+#: functions.php:115
+msgid "Click here"
+msgstr ""
+
+#: inc/customizer-functions.php:26
+msgid "Work Hour"
+msgstr ""
+
+#: inc/customizer-functions.php:27
+msgid "Add working hour in header."
+msgstr ""
+
+#: inc/customizer-functions.php:51
+msgid "Email"
+msgstr ""
+
+#: inc/customizer-functions.php:52
+msgid "Add email in header."
+msgstr ""
+
+#: inc/customizer-functions.php:76
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer-functions.php:77
+msgid "Add phone number in header."
+msgstr ""
+
+#: inc/customizer-functions.php:101
+msgid "Phone Label"
+msgstr ""
+
+#: inc/customizer-functions.php:102
+msgid "Add phone label in header."
+msgstr ""
+
+#: inc/customizer-functions.php:127
+msgid "Search Form"
+msgstr ""
+
+#: inc/customizer-functions.php:128
+msgid "Enable to show search form in header."
+msgstr ""
+
+#: inc/customizer-functions.php:147
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer-functions.php:148
+msgid "Enable to show social links in header."
+msgstr ""
+
+#: inc/pluggable-functions.php:91
+msgid "MENU"
+msgstr ""
+
+#: inc/pluggable-functions.php:95
+msgid "CLOSE"
+msgstr ""
+
+#: inc/pluggable-functions.php:98
+msgid "Mobile"
+msgstr ""
+
+#: inc/pluggable-functions.php:196
+msgid "Travel Charm | Developed By "
+msgstr ""
+
+#: inc/pluggable-functions.php:197
+msgid "Rara Themes"
+msgstr ""
+
+#: inc/pluggable-functions.php:199
+msgid " Powered by %s"
+msgstr ""
+
+#: inc/pluggable-functions.php:199
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Travel Charm"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/travel-charm/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Travel Charm is a WordPress theme to create an online booking website for "
+"tour and travel agencies. The theme is compatible with the WP Travel "
+"Engine, a plugin that makes booking travel and tours easy. With this theme, "
+"you can add trips, destinations, and trip types, feature travel activities, "
+"highlight your specialities and allow visitors to book the trips. The theme "
+"is SEO-optimized, mobile-friendly, and loads fast, so your website can rank "
+"higher on search engines. The Travel Charm theme can be used not only for "
+"travel booking companies but also for travel blogging, hotel and spa "
+"reservation, bed and breakfast, luxury resorts, reservations, tourism "
+"transport, and car rental businesses. Check the demo at "
+"https://rarathemes.com/previews/?theme=travel-charm, documentation at "
+"https://docs.rarathemes.com/docs/travel-charm/, and get support at "
+"https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""
+
+#: inc/pluggable-functions.php:159
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/pluggable-functions.php:164
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Barlow font: on or off"
+msgid "on"
+msgstr ""

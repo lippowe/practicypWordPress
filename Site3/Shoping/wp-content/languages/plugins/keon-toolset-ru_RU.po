@@ -1,0 +1,108 @@
+# Translation of Plugins - Keon Toolset - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Keon Toolset - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-25 11:44:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Keon Toolset - Development (trunk)\n"
+
+#: includes/theme-check-functions.php:46
+msgid "Search products..."
+msgstr "Искать товары..."
+
+#: includes/theme-check-functions.php:49 includes/theme-check-functions.php:79
+msgid "All Categories"
+msgstr "Все рубрики"
+
+#: includes/upsell.php:140
+msgid "Bosa Pro"
+msgstr "Bosa Pro"
+
+#: includes/upsell.php:144
+msgid "Gutener Pro"
+msgstr "Gutener Pro"
+
+#: includes/upsell.php:161
+msgid "Upgrade to Pro"
+msgstr "Обновиться до Pro"
+
+#: includes/upsell.php:156
+msgid "All Current and Future Free Demos"
+msgstr "Все текущие и будущие бесплатные демо"
+
+#: includes/upsell.php:157
+msgid "All Current and Future Pro Demos"
+msgstr "Все текущие и будущие демонстрации Pro"
+
+#: includes/upsell.php:145
+msgid "All Gutener Free and Pro Features"
+msgstr "Все функции Gutener Free и Pro"
+
+#: includes/upsell.php:159
+msgid "And many more..."
+msgstr "И многое другое..."
+
+#: includes/upsell.php:141
+msgid "All Bosa Free and Pro Features"
+msgstr "Все функции Bosa Free и Pro"
+
+#: demo/functions.php:94
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: demo/functions.php:126
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Вам не разрешено устанавливать плагины на этом сайте."
+
+#. Author URI of the plugin
+#: keon-toolset.php
+msgid "https://keonthemes.com"
+msgstr "https://keonthemes.com"
+
+#. Description of the plugin
+#: keon-toolset.php
+msgid "A easy plugin to import dummy data for themes by Keon Themes."
+msgstr "Простой плагин для импорта тестовых данных для тем от Keon Themes."
+
+#: demo/functions.php:91
+msgid "Clicking the button below will install and activate the Advanced Import plugin."
+msgstr "Нажав на кнопку ниже, вы установите и активируете плагин Advanced Import."
+
+#: demo/functions.php:68
+msgid "Processing..."
+msgstr "Обработка..."
+
+#: demo/functions.php:194
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Невозможно подключить файловую систему. Перепроверьте данные авторизации."
+
+#: demo/functions.php:87
+msgid "Thank you for choosing %1$s! It is detected that an essential plugin, Advanced Import, is not activated. Importing demos for %1$s can begin after pressing the button below."
+msgstr "Спасибо, что выбрали %1$s! Обнаружено, что неактивирован важный плагин Advanced Import. Импорт демонстрационных данных для %1$s может начаться после нажатия кнопки ниже."
+
+#: demo/functions.php:40
+msgid "Demo Import"
+msgstr "Демо импорт"
+
+#: demo/functions.php:40
+msgid "Demo Import "
+msgstr "Импорт демо "
+
+#: demo/functions.php:93
+msgid "Get started with the Theme"
+msgstr "Начните работу с темой"
+
+#. Author of the plugin
+#: keon-toolset.php
+msgid "Keon Themes"
+msgstr "Keon Themes"
+
+#. Plugin Name of the plugin
+#: keon-toolset.php
+msgid "Keon Toolset"
+msgstr "Набор инструментов Keon"

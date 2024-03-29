@@ -1,0 +1,52 @@
+# Translation of Plugins - The Icon Block - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - The Icon Block - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-26 06:16:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - The Icon Block - Stable (latest release)\n"
+
+#. Description of the plugin
+#: icon-block.php
+msgid "Effortlessly add SVG icons and graphics to the WordPress block editor."
+msgstr "Легко вставляйте SVG-иконки и графику в редактор блоков WordPress."
+
+#. Plugin Name of the plugin
+#: icon-block.php
+msgid "The Icon Block"
+msgstr "The Icon Block"
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "svg"
+msgstr "svg"
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "icon"
+msgstr "значек"
+
+#: build/block.json
+msgctxt "block description"
+msgid "Insert an SVG icon or graphic."
+msgstr "Вставьте SVG-значок или изображение."
+
+#: build/block.json
+msgctxt "block title"
+msgid "Icon"
+msgstr "Значок"
+
+#. Author URI of the plugin
+#: icon-block.php
+msgid "https://www.nickdiego.com"
+msgstr "https://www.nickdiego.com"
+
+#. Author of the plugin
+#: icon-block.php
+msgid "Nick Diego"
+msgstr "Ник Диего"

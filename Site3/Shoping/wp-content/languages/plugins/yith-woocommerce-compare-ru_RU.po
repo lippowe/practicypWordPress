@@ -1,0 +1,1581 @@
+# Translation of Plugins - YITH WooCommerce Compare - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Compare - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-11-19 22:53:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Compare - Stable (latest release)\n"
+
+#: plugin-fw/templates/panel/v2/premium-tab.php:24
+msgctxt "Premium Tab"
+msgid "Check out the advanced features you can get by upgrading to premium!"
+msgstr "Ознакомьтесь с расширенными функциями, которые вы можете получить, перейдя на премиум-версию!"
+
+#: plugin-fw/templates/panel/v2/premium-tab.php:22
+msgctxt "Premium Tab"
+msgid "Upgrade to unlock premium features"
+msgstr "Обновите, чтобы разблокировать премиум-функции"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:124
+msgctxt "Premium Tab"
+msgid "Verified Customer"
+msgstr "Проверенный клиент"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:98
+msgctxt "Premium Tab"
+msgid "100% Money-back guarantee"
+msgstr "100% гарантия возврата денег"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:97
+msgctxt "Premium Tab"
+msgid "Technical support"
+msgstr "Техническая поддержка"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:96
+msgctxt "Premium Tab"
+msgid "Regular updates"
+msgstr "Регулярные обновления"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:95
+msgctxt "Premium Tab"
+msgid "Advanced features"
+msgstr "Расширенные возможности"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:83
+msgctxt "Premium Tab"
+msgid "Upgrade now to unlock premium features"
+msgstr "Обновите сейчас, чтобы разблокировать премиум-функции"
+
+#. translators: %s is the discount percentage.
+#: plugin-fw/templates/panel/premium-tab-content.php:79
+msgctxt "Premium Tab"
+msgid "Upgrade now to get a %s%% off"
+msgstr "Обновите сейчас, чтобы получить скидку %s%%"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1305
+msgid ""
+"At first, I was hesitant to buy the premium version so I started with the free option.\n"
+"After a while, seeing the quality of the plugin and the results I was getting, I decided to give it a shot and switch to premium. No regrets!\n"
+"They have an amazing support team that is always there no matter how big or small your problem is. Do yourself a favor and stop using free plugins that kind of work and just buy whatever plugin you need from YITH."
+msgstr ""
+"Сначала я не решался покупать премиум-версию, поэтому начал с бесплатной версии.\n"
+"Через некоторое время, увидев качество плагина и результаты, которые я получаю, я решил попробовать и перейти на премиум. Без сожалений!\n"
+"У них замечательная команда поддержки, которая всегда рядом, независимо от того, насколько велика или мала ваша проблема. Сделайте себе одолжение и перестаньте использовать бесплатные плагины, которые работают, и просто купите любой плагин, который вам нужен, у YITH."
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:502
+#: plugin-fw/includes/class-yit-plugin-panel.php:1561
+msgid "Options saved!"
+msgstr "Параметры сохранены!"
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:35
+msgctxt "Plugin in \"Your Store Tools\" tab"
+msgid "Best choice"
+msgstr "Лучший выбор"
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:21
+msgid "Additional tools to improve UX, increase conversions, and loyalize customers."
+msgstr "Дополнительные инструменты для улучшения UX, повышения конверсии и лояльности клиентов."
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:51
+msgctxt "Plugin in \"Your Store Tools\" tab"
+msgid "Get it"
+msgstr "Получить это"
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:46
+msgctxt "Plugin in \"Your Store Tools\" tab"
+msgid "Active"
+msgstr "Активен"
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:17
+msgid "#1 Independent Seller of <mark>WooCommerce plugins</mark>"
+msgstr "#Независимый продавец № 1 плагинов <mark>WooCommerce</mark>."
+
+#: plugin-fw/templates/panel/premium-tab-content.php:45
+#: plugin-fw/templates/panel/v2/panel-option-label-tags.php:16
+msgctxt "Panel option tag"
+msgid "PREMIUM"
+msgstr "ПРЕМИУМ"
+
+#: plugin-fw/templates/panel/v2/panel-nav.php:36
+msgid "Collapse"
+msgstr "Свернуть"
+
+#. translators: %s is the alternative action "Upload a file".
+#: plugin-fw/templates/fields/media.php:72
+msgid "Upload a file"
+msgstr "Загрузить файл"
+
+#. translators: %s is the alternative action "Upload a file".
+#: plugin-fw/templates/fields/media.php:71
+msgid "Drag or %s"
+msgstr "Перетащить или %s"
+
+#: plugin-fw/templates/fields/media.php:53
+msgid "Enter URL"
+msgstr "Введите URL"
+
+#: plugin-fw/templates/fields/media.php:47
+msgid "Upload file"
+msgstr "Загрузить файл"
+
+#: plugin-fw/templates/fields/file.php:14
+msgid "Drag or upload a file."
+msgstr "Перетащите или загрузите файл."
+
+#: plugin-fw/templates/fields/ajax-orders.php:16
+msgid "Search for an order..."
+msgstr "Поиск заказа..."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:992
+msgctxt "Panel tab name"
+msgid "Your Store Tools"
+msgstr "Инструменты магазина"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:556
+msgid "Options reset correctly!"
+msgstr "Параметры сброшены корректно!"
+
+#: plugin-fw/includes/class-yit-assets.php:214
+msgid "You cannot drop files here."
+msgstr "Сюда нельзя сбрасывать файлы."
+
+#: plugin-fw/includes/class-yit-assets.php:213
+msgid "No file provided."
+msgstr "Файл не предоставлен."
+
+#: plugin-fw/includes/class-yit-assets.php:212
+msgctxt "Title"
+msgid "Error"
+msgstr "Ошибка"
+
+#. translators: %s is the number of characters.
+#: plugin-fw/includes/class-yit-assets.php:200
+msgctxt "Enhanced select"
+msgid "Searching&hellip;"
+msgstr "Идет поиск&hellip;"
+
+#. translators: %s is the number of characters.
+#: plugin-fw/includes/class-yit-assets.php:199
+msgctxt "Enhanced select"
+msgid "Please enter %s or more characters"
+msgstr "Введите %s или более символов"
+
+#: plugin-fw/includes/class-yit-assets.php:197
+msgctxt "Enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Введите 1 или более символов"
+
+#: plugin-fw/includes/class-yit-assets.php:196
+msgctxt "Enhanced select"
+msgid "No matches found"
+msgstr "Подходящие значения не найдены"
+
+#. translators: %s is the number of steps.
+#: plugin-fw/templates/panel/welcome-modals/welcome.php:45
+msgid "Start with these %s steps:"
+msgstr "Начните с этих %s шагов:"
+
+#: plugin-fw/templates/panel/welcome-modals/welcome.php:30
+msgid "Thank you for using our plugin"
+msgstr "Благодарим вас за использование нашего плагина"
+
+#: plugin-fw/templates/panel/welcome-modals/update.php:64
+#: plugin-fw/templates/panel/welcome-modals/welcome.php:60
+msgid "Got it, close this window"
+msgstr "Понял, закрой это окно"
+
+#: plugin-fw/templates/panel/welcome-modals/update.php:49
+msgid "Check the changelog >"
+msgstr "Проверьте список изменений >"
+
+#. translators: %s is the plugin version.
+#: plugin-fw/templates/panel/welcome-modals/update.php:44
+msgid "What's new in version %s"
+msgstr "Что нового в версии %s"
+
+#. translators: %s is the plugin version.
+#: plugin-fw/templates/panel/welcome-modals/update.php:34
+msgid "is successfully updated to version %s."
+msgstr "успешно обновлен до версии %s."
+
+#: plugin-fw/templates/bh-onboarding/onboarding-tabs.php:60
+msgid "Save"
+msgstr "Сохранить"
+
+#: plugin-fw/includes/class-yith-bh-onboarding.php:85
+msgid "It is not possible save the options"
+msgstr "Невозможно сохранить параметры"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1185
+msgid "See how it works before you start using it"
+msgstr "Посмотрите, как это работает, прежде чем начать его использовать"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1184
+msgid "Watch our <mark>\"First Steps\" video</mark>"
+msgstr "Посмотрите наше <mark>видео \"Первые шаги\"</mark>"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1174
+msgid "Learn what you can really do with this powerful tool"
+msgstr "Узнайте, что вы действительно можете сделать с помощью этого мощного инструмента"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1173
+msgid "Read the <mark>plugin documentation</mark>"
+msgstr "Прочитайте <mark>документацию</mark> по плагину"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:66
+msgctxt "Premium Tab"
+msgid "Check the premium features >"
+msgstr "Проверьте премиум-возможности >"
+
+#: plugin-fw/templates/panel/help-tab.php:238
+msgctxt "Help tab support"
+msgid "Call or chat 24/7 with our support agents, or let our experts build your site."
+msgstr "Звоните или общайтесь с нашими агентами поддержки 24/7 или позвольте нашим специалистам создать ваш сайт."
+
+#: plugin-fw/templates/panel/help-tab.php:220
+msgctxt "Help tab documentation"
+msgid "to learn how it works from the basics."
+msgstr "чтобы узнать, как это работает, с самых основ."
+
+#: plugin-fw/templates/panel/help-tab.php:241
+msgctxt "Help tab support"
+msgid "Yes, I need help"
+msgstr "Да, мне нужна помощь"
+
+#: plugin-fw/templates/panel/help-tab.php:235
+msgctxt "Help tab support"
+msgid "From DIY to full-service help"
+msgstr "От «сделай сам» до комплексной помощи"
+
+#: plugin-fw/templates/panel/help-tab.php:231
+#: plugin-fw/templates/panel/help-tab.php:233
+msgctxt "Help tab support"
+msgid "Need some help?"
+msgstr "Нужна помощь?"
+
+#: plugin-fw/templates/panel/help-tab.php:216
+#: plugin-fw/templates/panel/help-tab.php:218
+#: plugin-fw/templates/panel/help-tab.php:223
+msgctxt "Help tab documentation"
+msgid "Read the plugin documentation"
+msgstr "Ознакомьтесь с документацией плагина"
+
+#. translators: 1. Plugin name.
+#: plugin-fw/includes/class-yit-plugin-panel.php:920
+msgctxt "Help tab default title"
+msgid "Thank you for using %s!"
+msgstr "Благодарим за использование %s!"
+
+#. translators: 1. Plugin(s) name(s).
+#: plugin-fw/yit-plugin.php:281
+msgid "%s was deactivated as you're running an higher tier version of the same plugin."
+msgid_plural "%s were deactivated as you're running higher tier versions of the same plugins."
+msgstr[0] "%s был деактивирован, так как вы используете версию того же плагина более высокого уровня."
+msgstr[1] "%s был деактивирован, так как вы используете версию того же плагина более высокого уровня."
+msgstr[2] "%s был деактивирован, так как вы используете версию того же плагина более высокого уровня."
+
+#: plugin-fw/templates/fields/ajax-terms.php:41
+msgid "Search for a category..."
+msgstr "Поиск по категории..."
+
+#: plugin-fw/templates/fields/ajax-posts.php:41
+msgid "Search for a post..."
+msgstr "Поиск по записи..."
+
+#: plugin-fw/templates/fields/ajax-customers.php:41
+msgid "Search for a customer..."
+msgstr "Поиск по клиенту..."
+
+#: plugin-fw/templates/panel/help-tab.php:142
+msgctxt "Help tab Watch video tutorials link"
+msgid "to see some helpful use cases."
+msgstr "чтобы увидеть некоторые полезные варианты использования."
+
+#: plugin-fw/templates/panel/help-tab.php:129
+msgctxt "Help tab Read Documentation link"
+msgid "to learn how the plugin works from the basics."
+msgstr "чтобы узнать, как работает плагин, с самых основ."
+
+#: plugin-fw/templates/panel/premium-tab-content.php:102
+msgctxt "Premium Tab"
+msgid "Get the premium version"
+msgstr "Получите премиум-версию"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:62
+msgctxt "Premium Tab"
+msgid "Check the free vs premium features >"
+msgstr "Проверьте бесплатные и премиум-функции >"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:59
+msgctxt "Premium Tab"
+msgid "...and so much more!"
+msgstr "и много других возможностей!"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:977
+msgctxt "Premium tab name"
+msgid "Get premium"
+msgstr "Получить премиум"
+
+#. Translators: %1$f: Table size, %2$f: Index size, %3$f: Free size, %4$s
+#. Engine.
+#: plugin-fw/templates/sysinfo/tabs/main.php:174
+msgid "Data: %1$.2fMB | Index: %2$.2fMB | Free: %3$.2fMB | Engine: %4$s"
+msgstr "Данные: %1$.2fMB | Индексы: %2$.2fMB | Свободно: %3$.2fMB | Движок: %4$s"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:160
+msgid "Database Free Size"
+msgstr "База данных в свободном размере"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:152
+msgid "Database Index Size"
+msgstr "Размер индекса базы данных"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:144
+msgid "Database Data Size"
+msgstr "Размер данных в базе данных"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:136
+msgid "Total Database Size"
+msgstr "Общий размер базы данных"
+
+#. Translators: %s: Codex link.
+#: plugin-fw/templates/sysinfo/tabs/main.php:129
+msgid "WordPress requirements"
+msgstr "Требования WordPress"
+
+#. Translators: %s: Codex link.
+#: plugin-fw/templates/sysinfo/tabs/main.php:129
+msgid "WordPress recommends a minimum MySQL version of 5.6. See: %s"
+msgstr "WordPress рекомендует минимальную версию MySQL 5.6. Смотрите: %s"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:119
+msgid "MySQL version"
+msgstr "Версия MYSQL"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:114
+msgid "Database Info"
+msgstr "Данные о БД"
+
+#. translators: %s is the name of the plugin that is loading the framework.
+#: plugin-fw/templates/sysinfo/tabs/main.php:68
+msgid "loaded by %s"
+msgstr "загружено %s"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:59
+msgid "YITH Plugin Framework Version"
+msgstr "YITH Plugin Framework Version"
+
+#: plugin-fw/templates/panel/help-tab.php:204
+msgctxt "Help tab submit ticket button"
+msgid "Submit a ticket"
+msgstr "Отправить запрос"
+
+#: plugin-fw/templates/panel/help-tab.php:196
+msgctxt "Help tab submit ticket description"
+msgid "If you are experiencing any technical issues, ask for help from our developers. Submit a ticket through our support desk and we will help you as soon as possible."
+msgstr "Если у вас возникли какие-то технические проблемы, обратитесь за помощью к нашим разработчикам. Отправьте заявку в нашу службу поддержки, и мы поможем вам как можно скорее."
+
+#: plugin-fw/templates/panel/help-tab.php:193
+msgctxt "Help tab submit ticket title"
+msgid "Need help?"
+msgstr "Нужна помощь?"
+
+#: plugin-fw/templates/panel/help-tab.php:184
+msgctxt "Help tab FAQ link"
+msgid "View all FAQs >"
+msgstr "Просмотреть все часто задаваемые вопросы >"
+
+#: plugin-fw/templates/panel/help-tab.php:170
+msgctxt "Help tab FAQ title"
+msgid "Last FAQs in our Help Center"
+msgstr "Последние часто задаваемые вопросы в нашем Справочном центре"
+
+#: plugin-fw/templates/panel/help-tab.php:155
+msgctxt "Help tab view FAQs link"
+msgid "to find answers to your doubts."
+msgstr "найти ответы на свои сомнения."
+
+#: plugin-fw/templates/panel/help-tab.php:152
+msgctxt "Help tab view FAQs link"
+msgid "Check the FAQs"
+msgstr "Проверьте ответы на часто задаваемые вопросы"
+
+#: plugin-fw/templates/panel/help-tab.php:139
+msgctxt "Help tab Watch video tutorials link"
+msgid "Watch our video tutorials"
+msgstr "Просмотрите наши видеоинструкции"
+
+#: plugin-fw/templates/panel/help-tab.php:126
+msgctxt "Help tab Read Documentation link"
+msgid "Read the documentation"
+msgstr "Читать документацию"
+
+#: plugin-fw/templates/panel/help-tab.php:96
+msgctxt "Help tab Watch Videotutorials link"
+msgid "Videos are also available in:"
+msgstr "Видео также доступны на:"
+
+#. translators: 1. Url to EN playlist.
+#: plugin-fw/templates/panel/help-tab.php:89
+msgctxt "Help tab view all video link"
+msgid "Check the full <a href=\"%s\" target=\"_blank\">Playlist on Youtube</a> to learn more >"
+msgstr "Просмотрите полный <a href=\"%s\" target=\"_blank\">плейлист на Youtube</a>, чтобы узнать больше >"
+
+#: plugin-fw/templates/fields/image-dimensions.php:23
+msgctxt "Image height field label"
+msgid "Height"
+msgstr "Высота"
+
+#: plugin-fw/templates/fields/image-dimensions.php:18
+msgctxt "Image width field label"
+msgid "Width"
+msgstr "Ширина"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:929
+msgctxt "Help tab default description"
+msgid "We want to help you enjoy a wonderful experience with all of our products."
+msgstr "Мы хотим помочь вам насладиться прекрасным опытом работы со всеми нашими продуктами."
+
+#. translators: 1. Plugin name.
+#: plugin-fw/includes/class-yit-plugin-panel.php:920
+msgctxt "Help tab default title"
+msgid "Thank you for purchasing %s!"
+msgstr "Благодарим за покупку %s!"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1007
+msgctxt "Help tab name"
+msgid "Help"
+msgstr "Помощь"
+
+#: plugin-fw/includes/class-yit-help-desk.php:148
+msgid "There was an error with your request; please try again later."
+msgstr "Возникла ошибка при обработке вашего запроса. Повторите попытку."
+
+#: plugin-fw/includes/class-yit-assets.php:241
+msgid "Are you sure you want to delete the selected items?"
+msgstr "Вы уверены, что хотите удалить выбранные элементы?"
+
+#: plugin-fw/includes/class-yit-assets.php:238 plugin-fw/yit-functions.php:1985
+msgctxt "Trash confirmation action"
+msgid "Yes, move to trash"
+msgstr "Да, переместить в корзину"
+
+#: plugin-fw/includes/class-yit-assets.php:237
+msgid "Are you sure you want to trash the selected items?"
+msgstr "Вы уверены, что хотите удалить выбранные элементы?"
+
+#. translators: %s is the name of the post type (example Back to "Membership
+#. Plans").
+#: plugin-fw/includes/class-yith-post-type-admin.php:294
+msgid "Back to the list"
+msgstr "Вернуться к списку"
+
+#. translators: %s is the name of the post type (example Back to "Membership
+#. Plans").
+#: plugin-fw/includes/class-yith-post-type-admin.php:294
+msgid "Back to \"%s\""
+msgstr "Вернуться к \"%s\""
+
+#: plugin-fw/includes/class-yit-assets.php:225
+msgctxt "Button text"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: plugin-fw/includes/class-yit-assets.php:224
+msgctxt "Button text"
+msgid "Confirm"
+msgstr "Подтверждаю"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:31
+msgid "Options Saved"
+msgstr "Параметры сохранены"
+
+#: plugin-fw/templates/panel/v2/panel-content-page.php:57
+#: plugin-fw/templates/panel/v2/woocommerce/woocommerce-form.php:69
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:27
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:31
+msgid "Save Options"
+msgstr "Сохранить параметры"
+
+#: plugin-fw/yit-functions.php:2120
+msgctxt "Term action"
+msgid "Delete"
+msgstr "Удалить"
+
+#: plugin-fw/yit-functions.php:2107
+msgctxt "Term action"
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: plugin-fw/yit-functions.php:2099
+msgctxt "Term action"
+msgid "Edit"
+msgstr "Изменить"
+
+#: plugin-fw/yit-functions.php:2089
+msgctxt "Term action"
+msgid "View"
+msgstr "Перейти"
+
+#: plugin-fw/yit-functions.php:2014 plugin-fw/yit-functions.php:2022
+#: plugin-fw/yit-functions.php:2138
+msgid "Further actions"
+msgstr "Дальнейшие действия"
+
+#: plugin-fw/includes/class-yit-assets.php:242 plugin-fw/yit-functions.php:2003
+#: plugin-fw/yit-functions.php:2129
+msgctxt "Delete confirmation action"
+msgid "Yes, delete"
+msgstr "Да, удалить"
+
+#: plugin-fw/includes/class-yit-assets.php:240 plugin-fw/yit-functions.php:2000
+#: plugin-fw/yit-functions.php:2127
+msgid "Confirm delete"
+msgstr "Подтвердите удаление"
+
+#: plugin-fw/yit-functions.php:1993
+msgctxt "Post action"
+msgid "Delete Permanently"
+msgstr "Удалить навсегда"
+
+#: plugin-fw/includes/class-yit-assets.php:236 plugin-fw/yit-functions.php:1982
+msgid "Confirm trash"
+msgstr "Подтвердить корзину"
+
+#: plugin-fw/yit-functions.php:1976
+msgctxt "Post action"
+msgid "Trash"
+msgstr "Корзина"
+
+#: plugin-fw/yit-functions.php:1968
+msgctxt "Post action"
+msgid "Restore"
+msgstr "Восстановить"
+
+#: plugin-fw/yit-functions.php:1956
+msgctxt "Post action"
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: plugin-fw/yit-functions.php:1948
+msgctxt "Post action"
+msgid "Edit"
+msgstr "Изменить"
+
+#: plugin-fw/yit-functions.php:1937
+msgctxt "Post action"
+msgid "View"
+msgstr "Перейти"
+
+#: plugin-fw/yit-functions.php:1928
+msgctxt "Post action"
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/includes/class-yit-assets.php:241 plugin-fw/yit-functions.php:1916
+#: plugin-fw/yit-functions.php:2075
+msgid "This action cannot be undone and you will not be able to recover this data."
+msgstr "Это действие нельзя отменить, и вы не сможете восстановить эти данные."
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/yit-functions.php:1916 plugin-fw/yit-functions.php:2075
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr "Вы уверены, что хотите удалить \"%s\"?"
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/yit-functions.php:1914
+msgid "Are you sure you want to move \"%s\" to trash?"
+msgstr "Вы уверены, что хотите переместить %s\" в корзину?"
+
+#: plugin-fw/templates/fields/copy-to-clipboard.php:45
+msgctxt "Copy-to-clipboard button text"
+msgid "Copy"
+msgstr "Копировать"
+
+#: plugin-fw/templates/fields/copy-to-clipboard.php:41
+msgctxt "Copy-to-clipboard message"
+msgid "Copied!"
+msgstr "Скопировано!"
+
+#: plugin-fw/templates/panel/panel-header.php:26
+#: plugin-fw/templates/panel/v2/panel-header.php:21
+msgid "help us by leaving a good review"
+msgstr "поддержите нас, оставив хороший отзыв"
+
+#. translators: %s it the Elementor Widget title.
+#: plugin-fw/includes/builders/elementor/class-yith-elementor-widget.php:252
+msgctxt "Elementor Widget - section title"
+msgid "%s - Options"
+msgstr "%s - Параметры"
+
+#: plugin-fw/templates/fields/date-format.php:70
+msgid "Preview:"
+msgstr "Предварительный просмотр:"
+
+#: plugin-fw/includes/class-yit-pointers.php:97
+msgid "From now on, you can find the option panel of YITH plugins in YITH menu. Every time one of our plugins is added, a new entry will be added to this menu. For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.) will be moved from previous location to YITH menu."
+msgstr "С этого момента вы можете найти панель опций плагинов YITH в меню YITH. Каждый раз, когда добавляется один из наших плагинов, в это меню будет добавляться новая запись. Например, после обновления параметры плагина (например, для YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search и т.д.) будут перемещены из предыдущего места в меню YITH."
+
+#. translators: 1. YITH site link; 2. WordPress site link.
+#: plugin-fw/includes/class-yit-pointers.php:84
+#: plugin-fw/includes/class-yit-pointers.php:100
+msgid "Discover all our plugins available on: %1$s and %2$s"
+msgstr "Посмотрите все наши плагины на: %1$s и %2$s"
+
+#: plugin-fw/includes/class-yit-pointers.php:81
+msgid "From now on, you can find all plugin options in YITH menu. Plugin customization settings will be available as a new entry in YITH menu."
+msgstr "С настоящего времени вы можете найти все опции плагинов в разделе меню YITH. Персональные настройки плагинов будут доступны в виде новых пунктов раздела меню YITH."
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:107
+msgid "Copy Code"
+msgstr "Копировать код"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:107
+msgid "Copied!"
+msgstr "Скопировано!"
+
+#. translators: %s file name.
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:98
+msgid "No Log file available. Enable the WordPress debug by adding this in the %s file of your installation"
+msgstr "Нет доступного лог-файла. Включите отладку WordPress добавив следующие инструкции в %s файл вашей установки"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:74
+msgid "The file size exceeds 8 megabytes so it must be downloaded"
+msgstr "Размер файла превышает 8 Мб, поэтому его необходимо скачать"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:61
+msgid "Download"
+msgstr "Скачать"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:79
+msgid "Plugins Requirements"
+msgstr "Требования плагинов"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:21
+msgid "Site Info"
+msgstr "Информация о сайте"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:13
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:26
+msgid "Log Files"
+msgstr "Файлы журналов"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:12
+msgid "PHPInfo"
+msgstr "PHPInfo"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:51
+msgid "External object cache"
+msgstr "Внешний кэш объектов"
+
+#: plugin-fw/includes/class-yit-assets.php:278
+msgid "Color value"
+msgstr "Значение цвета"
+
+#: plugin-fw/includes/class-yit-assets.php:277
+msgid "Select Color"
+msgstr "Выбрать цвет"
+
+#: plugin-fw/includes/class-yit-assets.php:276
+msgid "Select default color"
+msgstr "Выбрать цвет по умолчанию"
+
+#: plugin-fw/includes/class-yit-assets.php:275
+msgid "Default"
+msgstr "По умолчанию"
+
+#: plugin-fw/includes/class-yit-assets.php:274
+msgid "Clear color"
+msgstr "Очистить цвет"
+
+#: plugin-fw/includes/class-yit-assets.php:273
+msgid "Clear"
+msgstr "Очистить"
+
+#. translators: %1$s TLS label
+#: plugin-fw/includes/class-yith-system-status.php:599
+msgid "The system check cannot determine which %1$s version is installed due to a connection issue between your site and our server."
+msgstr "Проверка системы не может определить, какая версия %1$s установлена ​​из-за проблем с подключением между вашим сайтом и нашим сервером."
+
+#. translators: %1$s TLS label, %2$s cURL label
+#: plugin-fw/includes/class-yith-system-status.php:596
+msgid "The system check cannot determine which %1$s version is installed because %2$s module is disabled. Ask your hosting company to enable it."
+msgstr "Системная проверка не может определить, какая версия %1$s установлена, поскольку модуль %2$s отключен. Попросите поддержку своего хостинга включить его."
+
+#: plugin-fw/includes/class-yith-system-status.php:550
+msgid "Contact your hosting company in order to install it."
+msgstr "Обратитесь к своему хостингу для установки."
+
+#: plugin-fw/includes/class-yit-assets.php:239
+#: plugin-fw/includes/class-yit-assets.php:243
+#: plugin-fw/templates/sysinfo/tabs/main.php:46
+#: plugin-fw/templates/sysinfo/tabs/main.php:54
+#: plugin-fw/yit-functions.php:1984 plugin-fw/yit-functions.php:2002
+msgid "No"
+msgstr "Нет"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:46
+#: plugin-fw/templates/sysinfo/tabs/main.php:54
+msgid "Yes"
+msgstr "Да"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:43
+msgid "Defined WP_CACHE"
+msgstr "Определённый WP_CACHE"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:18
+msgid "PHP error_log file"
+msgstr "Файл PHP error_log"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:13
+msgid "WP debug.log file"
+msgstr "Файл WP debug.log"
+
+#: plugin-fw/templates/fields/dimensions.php:94
+msgctxt "Tooltip in the \"Dimensions\" field"
+msgid "Link values together"
+msgstr "Объединить значения друг с другом"
+
+#: plugin-fw/templates/fields/dimensions.php:16
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Left"
+msgstr "Слева"
+
+#: plugin-fw/templates/fields/dimensions.php:15
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Bottom"
+msgstr "Снизу"
+
+#: plugin-fw/templates/fields/dimensions.php:14
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Right"
+msgstr "Справа"
+
+#: plugin-fw/templates/fields/dimensions.php:13
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Top"
+msgstr "Вверху"
+
+#: plugin-fw/templates/panel/panel-header.php:27
+#: plugin-fw/templates/panel/v2/panel-header.php:22
+msgid ":) Thanks!"
+msgstr ":) Спасибо!"
+
+#: plugin-fw/templates/panel/panel-header.php:24
+#: plugin-fw/templates/panel/v2/panel-header.php:19
+msgid "to keep updating and improving the plugin. Please,"
+msgstr "чтобы постоянно обновлять и улучшать плагин. Пожалуйста,"
+
+#: plugin-fw/templates/panel/panel-header.php:23
+#: plugin-fw/templates/panel/v2/panel-header.php:18
+msgid "We need your support"
+msgstr "Нам нужна ваша поддержка"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:35
+msgid "Output IP Address"
+msgstr "Выходной IP-адрес"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:26
+msgid "Site URL"
+msgstr "URL сайта"
+
+#: plugin-fw/includes/class-yith-system-status.php:487
+msgid "N/A"
+msgstr "Н/Д"
+
+#. translators: %1$s opening link tag, %2$s closing link tag
+#: plugin-fw/includes/class-yith-system-status.php:569
+#: plugin-fw/includes/class-yith-system-status.php:591
+msgid "Read more %1$shere%2$s or contact your hosting company in order to increase it."
+msgstr "Прочтите %1$shere%2$s или обратитесь в свою хостинговую компанию, чтобы увеличить ее."
+
+#: plugin-fw/includes/class-yith-system-status.php:565
+msgid "Contact your hosting company in order to enable it."
+msgstr "Свяжитесь с вашей хостинговой компанией, чтобы включить его."
+
+#. translators: %1$s code, %2$s file name
+#: plugin-fw/includes/class-yith-system-status.php:557
+msgid "Remove %1$s from %2$s file"
+msgstr "Удалить %1$s из файла %2$s"
+
+#: plugin-fw/includes/class-yith-system-status.php:546
+#: plugin-fw/includes/class-yith-system-status.php:552
+msgid "Contact your hosting company in order to update it."
+msgstr "Свяжитесь с хостинговой компанией, чтобы обновить ее."
+
+#: plugin-fw/includes/class-yith-system-status.php:542
+msgid "Update it to the latest version in order to benefit of all new features and security updates."
+msgstr "Обновите его до последней версии, чтобы воспользоваться всеми новыми функциями и обновлениями безопасности."
+
+#. translators: %1$s plugin name, %2$s version number
+#: plugin-fw/includes/class-yith-system-status.php:519
+msgid "%1$s needs at least %2$s version"
+msgstr "%1$s требуется как минимум версия %2$s"
+
+#. translators: %s recommended memory amount
+#: plugin-fw/includes/class-yith-system-status.php:588
+msgid "For optimal functioning of our plugins, we suggest setting at least %s of available memory"
+msgstr "Для оптимальной работы наших плагинов мы предлагаем установить не менее %s доступной памяти"
+
+#. translators: %1$s plugin name, %2$s required memory amount
+#: plugin-fw/includes/class-yith-system-status.php:516
+msgid "%1$s needs at least %2$s of available memory"
+msgstr "%1$s требуется не менее %2$s доступной памяти"
+
+#. translators: %1$s plugin name, %2$s requirement name
+#: plugin-fw/includes/class-yith-system-status.php:513
+msgid "%1$s needs %2$s enabled"
+msgstr "%1$s требует включения %2$s"
+
+#: plugin-fw/includes/class-yith-system-status.php:482
+msgid "Disabled"
+msgstr "Отключено"
+
+#: plugin-fw/includes/class-yith-system-status.php:482
+msgid "Enabled"
+msgstr "Включено"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:28
+msgid "YITH System Information"
+msgstr "Системная информация YITH"
+
+#. translators: 1. user display name; 2. user ID; 3. user email.
+#: plugin-fw/templates/fields/ajax-customers.php:68
+#: plugin-fw/templates/fields/ajax-customers.php:79
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#. translators: %1$s open link tag, %2$s open link tag
+#: plugin-fw/includes/class-yith-system-status.php:336
+msgid "The system check has detected some compatibility issues on your installation.%1$sClick here%2$s to know more"
+msgstr "Проверка системы выявила некоторые проблемы совместимости в вашей установке.%1$sНажмите здесь%2$s, чтобы узнать больше"
+
+#: plugin-fw/includes/class-yith-system-status.php:332
+msgid "Warning!"
+msgstr "Внимание!"
+
+#: plugin-fw/includes/class-yith-system-status.php:185
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:119
+msgid "URL FOpen"
+msgstr "URL FOpen"
+
+#: plugin-fw/includes/class-yith-system-status.php:118
+msgid "OPCache Save Comments"
+msgstr "OPCache Сохранение комментариев"
+
+#: plugin-fw/includes/class-yith-system-status.php:117
+msgid "Iconv Module"
+msgstr "Модуль Iconv"
+
+#: plugin-fw/includes/class-yith-system-status.php:116
+msgid "GD Library"
+msgstr "Библиотека GD"
+
+#: plugin-fw/includes/class-yith-system-status.php:115
+msgid "ImageMagick Version"
+msgstr "Версия ImageMagick"
+
+#: plugin-fw/includes/class-yith-system-status.php:114
+msgid "MultiByte String"
+msgstr "Многобайтовая строка"
+
+#: plugin-fw/includes/class-yith-system-status.php:113
+msgid "SimpleXML"
+msgstr "SimpleXML"
+
+#: plugin-fw/includes/class-yith-system-status.php:112
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+#: plugin-fw/includes/class-yith-system-status.php:111
+msgid "TLS Version"
+msgstr "Версия TLS"
+
+#: plugin-fw/includes/class-yith-system-status.php:110
+msgid "PHP Version"
+msgstr "Версия PHP"
+
+#: plugin-fw/includes/class-yith-system-status.php:109
+msgid "Available Memory"
+msgstr "Доступная память"
+
+#: plugin-fw/includes/class-yith-system-status.php:108
+msgid "WooCommerce Version"
+msgstr "Версия WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:107
+msgid "WordPress Version"
+msgstr "Версия WordPress"
+
+#: plugin-fw/includes/class-yith-system-status.php:136
+#: plugin-fw/includes/class-yith-system-status.php:137
+#: plugin-fw/templates/sysinfo/system-information-panel.php:11
+msgid "System Status"
+msgstr "Системная информация"
+
+#: plugin-fw/templates/fields/select-buttons.php:20
+msgid "Remove All"
+msgstr "Удалить все"
+
+#: plugin-fw/templates/fields/select-buttons.php:19
+msgid "Add All"
+msgstr "Добавить все"
+
+#: plugin-fw/templates/fields/date-format.php:65
+msgid "Custom:"
+msgstr "Пользовательский:"
+
+#: plugin-fw/includes/class-yith-dashboard.php:137
+msgctxt "Button label"
+msgid "Close"
+msgstr "Закрыть"
+
+#: plugin-fw/includes/class-yith-dashboard.php:97
+msgctxt "Plugin FW"
+msgid "Latest update released on"
+msgstr "Последнее обновление выпущено"
+
+#: plugin-fw/includes/class-yith-dashboard.php:96
+msgctxt "Plugin FW"
+msgid "View Changelog"
+msgstr "Просмотр журнала изменений"
+
+#: plugin-fw/includes/class-yith-dashboard.php:63
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Произошла ошибка, которая, вероятно, означает, что канал не работает. Повторите попытку позже."
+
+#: plugin-fw/includes/class-yith-dashboard.php:56
+msgid "RSS Error:"
+msgstr "Ошибка RSS:"
+
+#: plugin-fw/includes/class-yith-dashboard.php:36
+msgid "Latest news from YITH Blog"
+msgstr "Последние новости из блога YITH"
+
+#: plugin-fw/includes/class-yith-dashboard.php:35
+msgid "YITH Latest Updates"
+msgstr "Последние обновления YITH"
+
+#: plugin-fw/includes/builders/gutenberg/class-yith-gutenberg.php:156
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "YITH"
+
+#. Author of the plugin
+#: init.php
+msgid "YITH"
+msgstr "YITH"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:485
+msgid "Moreover, if you want to give your users the chance to see in a glance how many products they have added to the Compare list, feel free to use the widget or the shortcode included. And their Compare list is always no more than one click away."
+msgstr "Более того, если вы хотите, чтобы ваши пользователи могли сразу увидеть, сколько продуктов они добавили в список сравнения, не стесняйтесь использовать виджет или шорткод. И их список сравнения всегда не более чем в один клик."
+
+#: templates/admin/premium.php:480
+msgid "Compare counter - widget and shortcode"
+msgstr "Счетчик сравнений - виджет и шорткод"
+
+#: templates/admin/premium.php:464
+msgid "Compare list - widget"
+msgstr "Список сравнения - виджет"
+
+#. Description of the plugin
+#: init.php
+msgid "The <code><strong>YITH WooCommerce Compare</strong></code> plugin allow you to compare in a simple and efficient way products on sale in your shop and analyze their main features in a single table. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</strong></a>."
+msgstr "Плагин <code><strong>YITH WooCommerce Compare</strong></code> позволяет вам простым и эффективным способом сравнивать товары, продаваемые в вашем магазине, и анализировать их основные функции в одной таблице. <a href=\"https://yithemes.com/\" target=\"_blank\">Загрузите дополнительные плагины для своего магазина электронной торговли в <strong>YITH</strong></a>."
+
+#: includes/class.yith-woocompare-admin.php:114 plugin-fw/yit-plugin.php:242
+msgid "License"
+msgstr "Лицензия"
+
+#: plugin-fw/yit-plugin.php:238
+msgctxt "Action links"
+msgid "Settings"
+msgstr "Настройки"
+
+#: plugin-fw/yit-plugin.php:97
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "Премиум версия"
+
+#: plugin-fw/yit-plugin.php:93
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "Поддержка"
+
+#: plugin-fw/yit-plugin.php:89
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "Документация"
+
+#: plugin-fw/yit-plugin.php:85
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "Демонстрация в реальном времени"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:106
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "Платежи"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:103
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "Чем мы делимся с другими"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:100
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "У каких членов нашей команды есть доступ"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:97
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "Что мы собираем и храним"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:93
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "Этот образец содержит основную информацию о том, какие персональные данные ваш магазин может собирать, хранить и передавать третьей стороне, а также о том, кто может получить доступ к этим данным. Информация относительно вашего магазина может отличаться в зависимости от используемых вами настроек и плагинов. Рекомендуем проконсультироваться с юристом о том, какие сведения следует раскрывать в вашей политике конфиденциальности."
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:61
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "Плагины YITH"
+
+#: plugin-fw/templates/fields/icons.php:78
+msgid "Set Default"
+msgstr "Установить по умолчанию"
+
+#: includes/class.yith-woocompare-helper.php:50
+msgid "Sku"
+msgstr "Артикул"
+
+#: includes/class.yith-woocompare-frontend.php:221
+msgctxt "Label for popup close icon"
+msgid "Close"
+msgstr "Закрыть"
+
+#: includes/class.yith-woocompare-helper.php:53
+msgid "Dimensions"
+msgstr "Размеры"
+
+#: includes/class.yith-woocompare-helper.php:52
+msgid "Weight"
+msgstr "Вес"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:559
+#: plugin-fw/includes/class-yit-plugin-panel.php:562
+msgid "How to install premium version"
+msgstr "Как установить премиум-версию"
+
+#. Plugin URI of the plugin
+#: init.php
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-compare/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-compare/"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:469
+msgid "Thanks to YITH WooCommerce Comapre Widget users could verify at any time the complete list of products added to the compare tab and avoid to open the popup to check its existence. "
+msgstr "Благодаря виджету YITH WooCommerce Compare пользователи могут в любой момент просмотреть полный список товаров, добавленных на вкладку сравнения и не открывать всплывающее окно."
+
+#: plugin-fw/templates/fields/upload.php:39
+msgid "Reset"
+msgstr "Сброс"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:447
+msgid "Select the products you want to compare and the system will offer you the %1$sshortcode%2$s to generate a comparing table. Simple, rapid and useful."
+msgstr "Выберите товары, которые вы хотите сравнить и система предложит вам %1$sшорткоды%2$s для создания сравнительной таблицы. Просто, быстро и полезно."
+
+#: templates/admin/premium.php:442
+msgid "A TAILORED TABLE"
+msgstr "ХАРАКТЕРИСТИКА"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:431
+msgid "Let you users compare products following every feature, and considering also all those %1$sattributes%2$s that can be manually created in within the product detail page. Every single detail will be included."
+msgstr "Позвольте пользователям сравнивать товары и учитывать %1$sсвойства товаров%2$s в таблице. Каждая деталь будет включена."
+
+#: templates/admin/premium.php:426
+msgid "CUSTOMIZED ATTRIBUTES"
+msgstr "НАСТРОЕННЫЕ СВОЙСТВА"
+
+#. Author URI of the plugin
+#: init.php
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#. Plugin Name of the plugin
+#: init.php
+msgid "YITH WooCommerce Compare"
+msgstr "YITH WooCommerce Compare"
+
+#: widgets/class.yith-woocompare-widget.php:54
+msgid "Clear all"
+msgstr "Очистить всё"
+
+#: widgets/class.yith-woocompare-widget.php:27
+msgid "YITH WooCommerce Compare Widget"
+msgstr "Виджет сравнения YITH WooCommerce"
+
+#: widgets/class.yith-woocompare-widget.php:23
+msgid "The widget shows the list of products added in the comparison table."
+msgstr "Виджет показывает список товаров, добавленных в таблицу сравнения."
+
+#: templates/compare.php:122
+msgid "No products added in the compare table."
+msgstr "В таблице сравнения нет товаров."
+
+#: templates/compare.php:87
+msgid "Close window [X]"
+msgstr "Закрыть окно [X]"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:409
+msgid "An advanced option panel that let you change all the colors of the plugin, so that you can adapt stylistically all its elements %1$sto the layout%2$s of your shop.We know it, looks also count... and we give you the right tools to get to the best result."
+msgstr "Расширенная панель параметров, которая позволяет вам изменять все цвета плагина, так что вы можете адаптировать все элементы %1$sк макету%2$s вашего магазина."
+
+#: templates/admin/premium.php:404
+msgid "CUSTOMIZABLE STYLE"
+msgstr "НАСТРОЙКА СТИЛЯ"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:393
+msgid "All the products that have common categories and/or tags with those in the comparison table will be showed in a slider, right under the comparison table.%3$sA completely %1$s\"touch friendly\"%2$s slider to encourage your users to discover the shop products of the shop related to those they are interested into."
+msgstr "Все товары, имеющие общие категории и/или теги, с теми, что в сравнительной таблице, будут показаны в слайдере, прямо под сравнительной таблицей. Слайдер является %3$sполностью %1$sдружественным%2$s и удобным для ознакомления с другими товарами."
+
+#: templates/admin/premium.php:388
+msgid "RELATED PRODUCTS"
+msgstr "ПОХОЖИЕ ТОВАРЫ"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:371
+msgid "One of the most appealing features of the premium version of the plugin.Four social network sites for your users (Facebook, Twitter, Google + and Pinterest) and the email system %1$sto share%2$s the comparison table of the products they have selected."
+msgstr "Одна из самых привлекательных функций премиум-версии плагина. Четыре социальных сети для ваших пользователей (Facebook, Twitter, Google + и Pinterest) и электронная почта%1$sчтобы поделиться%2$s результатами сравнения."
+
+#: templates/admin/premium.php:366
+msgid "SOCIAL NETWORK SHARING"
+msgstr "СОЦСЕТИ"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:355
+msgid "With this precious feature, you will be able to show in the table only the fields that have information in at least one of the selected products.%3$sActivate the %1$s\"Dynamic Attribute fields\"%2$s option and there will be no more empty lines in your comparison table."
+msgstr "С помощью этой ценной функции вы сможете отображать в таблице только те поля, которые содержат информацию,по крайней мере, в одном из выбранных товаров.%3$sАктивируйте%1$s \"Динамические свойства\"%2$s и в вашей таблице сравнения больше не будет пустых строк."
+
+#: templates/admin/premium.php:350
+msgid "DYNAMIC FIELDS"
+msgstr "ДИНАМИЧЕСКИЕ ПОЛЯ"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:333
+msgid "Give a personal touch to the %1$scomparison table%2$s your users will see. Select an image, upload it from the option panel and show it ahead of the table to your users. "
+msgstr "Создайте %1$sтаблицу сравнения%2$s с изображением. Выберите изображение и вставьте его перед таблицей."
+
+#: templates/admin/premium.php:328
+msgid "TABLE IMAGE"
+msgstr "ИЗОБРАЖЕНИЕ ТАБЛИЦЫ"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:317
+msgid "In your shop there may be product categories you don't want to be affected by the plugin features, deleting the comparison button for them. The premium version of the plugin offers this too.%3$sAnd there's more! Activating the %1$s\"Reverse exclusion list\"%2$s option, you can also invert the behavior of the feature, allowing the comparison only to those products of the selected categories."
+msgstr "В вашем магазине могут быть категории товаров, которые вы не хотите, чтобы они попадали в сравнение - удалите кнопку сравнения в этих товарах. Премиум-версия плагина это позволяет.%3$sА активировав %1$s\"Обратный список исключений\"%2$s вы можете инвертировать поведение функции, позволяя сравнивать только товары из выбранных категорий."
+
+#: templates/admin/premium.php:312
+msgid "CATEGORY EXCLUSION "
+msgstr "ИСКЛЮЧЕНИЕ КАТЕГОРИИ"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:295
+msgid "People are often confused by finding products of different categories in the comparison table, creating difficulties in comparing the products they are interested into.The %1$s\"Compare by category\"%2$s option exists for this need: you will be able to separate the products in the table by category affinity."
+msgstr "Люди часто путаются с поиском товаров из разных категорий в сравнительной таблице и это создает определенные трудности. Для этой потребности существует опция %1$s\"Сравнить по категории\"%2$s, которая позволит разделить товары в таблице по категориям."
+
+#: templates/admin/premium.php:290
+msgid "CATEGORY COMPARATION"
+msgstr "СРАВНЕНИЕ КАТЕГОРИИ"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:279
+msgid "Don't you want to compare your products in a modal window anymore?%3$sWith the premium version of %1$sYITH WooCommerce Compare%2$s, a new page will be created automatically in your site and, adding it among the menu entries, you will be able to give to your users the chance to access it easily whenever they want."
+msgstr "Вы больше не хотите сравнивать свои товары в модальном окне?%3$sС premium-версией плагина%1$sYITH WooCommerce Compare%2$s будет создана новая страница для сравнения товаров, которая также будет добавлена в меню. Это очень удобно для ваших покупателей."
+
+#: templates/admin/premium.php:274
+msgid "A DEDICATED PAGE"
+msgstr "СЛЕДУЮЩАЯ СТРАНИЦА"
+
+#: templates/admin/premium.php:266
+msgid "Premium Features"
+msgstr "Возможности премиум-версии"
+
+#: templates/admin/premium.php:260 templates/admin/premium.php:505
+msgid "to the premium version"
+msgstr "до премиум версии"
+
+#: templates/admin/premium.php:259 templates/admin/premium.php:504
+msgid "UPGRADE"
+msgstr "ОБНОВИТЬ"
+
+#. translators: placeholders are used for add html tag.
+#: templates/admin/premium.php:255 templates/admin/premium.php:500
+msgid "Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Compare%2$s to benefit from all features!"
+msgstr "Обновите плагин %1$sYITH WooCommerce Compare%2$s до версии %1$sПремиум%2$s, чтобы воспользоваться всеми функциями!"
+
+#: plugin-options/general-options.php:112
+msgid "Set the size for the images"
+msgstr "Установите размер для изображений"
+
+#: plugin-options/general-options.php:111
+msgid "Image size"
+msgstr "Размер изображения"
+
+#: plugin-options/general-options.php:104
+msgid "Repeat the \"Add to cart\" field at the end of the table"
+msgstr "Повторить поле \"Добавить в корзину\" в конце таблицы"
+
+#: plugin-options/general-options.php:103
+msgid "Repeat \"Add to cart\" field"
+msgstr "Повторить поле \"Добавить в корзину\""
+
+#: plugin-options/general-options.php:96
+msgid "Repeat the \"Price\" field at the end of the table"
+msgstr "Повторить поле \"Цена\" в конце таблицы"
+
+#: plugin-options/general-options.php:95
+msgid "Repeat \"Price\" field"
+msgstr "Повторить поле \"Цена\""
+
+#: plugin-options/general-options.php:88
+msgid "Select the fields to show in the comparison table and order them by drag&drop (are included also the woocommerce attributes)"
+msgstr "Выберите поля для отображения в таблице сравнения и отсортируйте их путем перетаскивания (включены также атрибуты WooCommerce)"
+
+#: plugin-options/general-options.php:87
+msgid "Fields to show"
+msgstr "Показать поля"
+
+#: plugin-options/general-options.php:82 templates/compare.php:29
+msgid "Compare products"
+msgstr "Сравнение товаров"
+
+#: plugin-options/general-options.php:80
+msgid "Type the text to use for the table title."
+msgstr "Введите текст, для заголовка таблицы."
+
+#: plugin-options/general-options.php:79
+msgid "Table title"
+msgstr "Название таблицы"
+
+#: plugin-options/general-options.php:72
+msgid "Table Settings"
+msgstr "Настройки таблицы"
+
+#: plugin-options/general-options.php:60
+msgid "Open link after click into \"Compare\" button\"."
+msgstr "Открывать ссылку после нажатия на кнопку \"Сравнить\" ."
+
+#: plugin-options/general-options.php:59
+msgid "Open automatically lightbox"
+msgstr "Открывать лайтбокс автоматически"
+
+#: plugin-options/general-options.php:52
+msgid "Say if you want to show the button in the products list."
+msgstr "Скажите, если хотите показать кнопку на странице списка товаров."
+
+#: plugin-options/general-options.php:51
+msgid "Show button in products list"
+msgstr "Показывать кнопку в списке товаров"
+
+#: plugin-options/general-options.php:44
+msgid "Say if you want to show the button in the single product page."
+msgstr "Скажите, если хотите показать кнопку на странице одного товара."
+
+#: plugin-options/general-options.php:43
+msgid "Show button in single product page"
+msgstr "Показать кнопку на странице товара"
+
+#: plugin-options/general-options.php:36
+msgid "Type the text to use for the button or the link of the compare."
+msgstr "Введите текст, чтобы использовать для кнопки или ссылки сравнения."
+
+#: plugin-options/general-options.php:35
+msgid "Link/Button text"
+msgstr "Текст для кнопки/ссылки"
+
+#: plugin-options/general-options.php:30
+msgid "Button"
+msgstr "Кнопка"
+
+#: plugin-options/general-options.php:29
+msgid "Link"
+msgstr "Ссылка"
+
+#: plugin-options/general-options.php:23
+msgid "Choose if you want to use a link or a button for the comepare actions."
+msgstr "Выберите вариант отображения: кнопкой или ссылкой."
+
+#: plugin-options/general-options.php:22
+msgid "Link or Button"
+msgstr "Ссылка или Кнопка"
+
+#: plugin-options/general-options.php:15
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: plugin-fw/templates/panel/v2/panel-content-page.php:58
+#: plugin-fw/templates/panel/v2/woocommerce/woocommerce-form.php:70
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:41
+msgid "Reset Defaults"
+msgstr "Сбросить по умолчанию"
+
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Right Sidebar"
+msgstr "Боковая панель справа"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "Боковая панель слева"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:56
+msgid "Choose a sidebar"
+msgstr "Выберите боковую панель"
+
+#: plugin-fw/templates/fields/sidebars.php:23
+msgid "Right sidebar"
+msgstr "Боковая панель справа"
+
+#: plugin-fw/templates/fields/sidebars.php:26
+#: plugin-fw/templates/fields/sidebars.php:29
+msgid "No sidebar"
+msgstr "Без боковых колонок"
+
+#: plugin-fw/templates/fields/sidebars.php:20
+msgid "Left sidebar"
+msgstr "Боковая панель слева"
+
+#: plugin-fw/templates/fields/image-gallery.php:26
+#: plugin-fw/templates/fields/image-gallery.php:37
+msgid "Delete"
+msgstr "Удалить"
+
+#: plugin-fw/templates/fields/image-gallery.php:35
+msgid "Add images"
+msgstr "Добавить изображения"
+
+#: plugin-fw/templates/fields/image-gallery.php:34
+msgid "Add to gallery"
+msgstr "Добавить в галерею"
+
+#: plugin-fw/templates/fields/image-gallery.php:33
+msgid "Add Images to Gallery"
+msgstr "Добавить изображения в галерею"
+
+#: plugin-fw/templates/fields/image-gallery.php:36
+msgid "Delete image"
+msgstr "Удалить изображение"
+
+#: plugin-fw/templates/fields/customtabs.php:93
+msgid "Do you want to remove the custom tab?"
+msgstr "Вы хотите удалить пользовательскую вкладку?"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+msgid "Add custom product tab"
+msgstr "Добавить вкладку пользовательского товара"
+
+#: plugin-fw/templates/fields/customtabs.php:41
+#: plugin-fw/templates/fields/customtabs.php:82
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Содержимое вкладки. (HTML поддерживается)"
+
+#: plugin-fw/templates/fields/customtabs.php:40
+#: plugin-fw/templates/fields/customtabs.php:81
+msgid "Value"
+msgstr "Значение"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Expand all"
+msgstr "Развернуть все"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Close all"
+msgstr "Закрыть все"
+
+#: plugin-fw/templates/fields/upload.php:34
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:37
+msgid "Upload"
+msgstr "Загрузка"
+
+#: plugin-fw/templates/fields/ajax-products.php:16
+msgid "Search for a product..."
+msgstr "Поиск по товару..."
+
+#: plugin-fw/includes/class-yit-pointers.php:96
+msgid "Plugins Upgraded"
+msgstr "Плагины обновлены"
+
+#: plugin-fw/includes/class-yit-pointers.php:80
+msgid "Plugins Activated"
+msgstr "Плагины активированы"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1566
+msgid "Sorting successful."
+msgstr "Сортировка прошла успешно."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1565
+msgid "Sorry, import is disabled."
+msgstr "Извините, импорт отключен."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1564
+msgid "The added file is not valid."
+msgstr "Добавлен некорректный файл."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1563
+msgid "An error has occurred during import. Please try again."
+msgstr "Произошла ошибка при импорте. Пожалуйста, попробуйте еще раз."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1562
+msgid "Database imported correctly."
+msgstr "База данных импортирована правильно."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1560
+msgid "Element updated correctly."
+msgstr "Элемент обновлен правильно."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1559
+msgid "Element deleted correctly."
+msgstr "Элемент удален правильно."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1558
+msgid "Settings reset"
+msgstr "Сброс настроек"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1557
+msgid "Settings saved"
+msgstr "Изменения сохранены"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1556
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "Введенный вами элемент уже существует. Пожалуйста, введите другое имя."
+
+#: plugin-fw/includes/class-yit-assets.php:261
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:134
+#: plugin-fw/templates/panel/panel-content-page.php:14
+msgid "Are you sure?"
+msgstr "Уверены?"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:137
+#: plugin-fw/templates/panel/panel-content-page.php:38
+msgid "Reset to default"
+msgstr "Вернуть установки по умолчанию"
+
+#: plugin-fw/includes/class-yit-assets.php:262
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:134
+#: plugin-fw/templates/panel/panel-content-page.php:14
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Если вы продолжите это действие, вы сбросите все параметры на этой странице."
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:127
+#: plugin-fw/templates/panel/panel-content-page.php:29
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: plugin-fw/includes/class-yith-system-status.php:177
+msgid "YITH Plugins"
+msgstr "Плагины YITH"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:89
+msgid "Plugin Settings"
+msgstr "Настройки плагина"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:606
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "Внесенные вами изменения будут утеряны, если вы покинете эту страницу."
+
+#: plugin-fw/templates/fields/customtabs.php:34
+#: plugin-fw/templates/fields/customtabs.php:76
+msgid "Name"
+msgstr "Название"
+
+#: init.php:65
+msgid "You can't activate the free version of YITH WooCommerce Compare while you are using the premium one."
+msgstr "Вы не можете активировать бесплатную версию YITH WooCommerce Compare, пока используете премиум-версию."
+
+#: init.php:51
+msgid "YITH WooCommerce Compare is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Compare включена, но не эффективна. Для работы требуется WooCommerce."
+
+#: includes/class.yith-woocompare-helper.php:51
+msgid "Availability"
+msgstr "Доступность"
+
+#: includes/class.yith-woocompare-helper.php:49
+msgid "Description"
+msgstr "Описание"
+
+#: includes/class.yith-woocompare-helper.php:48
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+#: includes/class.yith-woocompare-helper.php:47
+msgid "Price"
+msgstr "Цена"
+
+#: includes/class.yith-woocompare-helper.php:46
+#: widgets/class.yith-woocompare-widget.php:72
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/class.yith-woocompare-helper.php:45
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/class.yith-woocompare-frontend.php:738
+#: plugin-fw/templates/fields/customtabs.php:25
+#: plugin-fw/templates/fields/customtabs.php:68 templates/compare.php:139
+msgid "Remove"
+msgstr "Удалить"
+
+#: includes/class.yith-woocompare-frontend.php:726
+msgid "No products to compare"
+msgstr "Нет товаров для сравнения"
+
+#: includes/class.yith-woocompare-frontend.php:373
+msgid "In stock"
+msgstr "В наличии"
+
+#: includes/class.yith-woocompare-frontend.php:216 templates/compare.php:57
+msgid "Product Comparison"
+msgstr "Сравнение товаров"
+
+#: includes/class.yith-woocompare-frontend.php:215
+msgid "Added"
+msgstr "Добавлен"
+
+#: includes/class.yith-woocompare-admin.php:348
+msgid "Do you want to hard crop the image?"
+msgstr "Вы хотите сильно кадрировать изображение?"
+
+#: includes/class.yith-woocompare-frontend.php:219
+#: includes/class.yith-woocompare-frontend.php:503
+#: plugin-options/general-options.php:38
+#: widgets/class.yith-woocompare-widget.php:55
+msgid "Compare"
+msgstr "Сравнить"
+
+#: includes/class.yith-woocompare-admin.php:139
+msgid "Premium Version"
+msgstr "Премиум версия"
+
+#: includes/class.yith-woocompare-admin.php:112
+#: includes/class.yith-woocompare-admin.php:135
+#: plugin-fw/includes/class-yit-plugin-panel.php:90
+msgid "Settings"
+msgstr "Настройки"

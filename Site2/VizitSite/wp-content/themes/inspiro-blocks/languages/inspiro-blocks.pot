@@ -1,0 +1,256 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inspiro Blocks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-14 12:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: inspiro-blocks"
+
+#: inc/admin/theme-admin.php:130
+msgid ""
+"Are you are enjoying inspiro-blocks? We would love to hear your feedback."
+msgstr ""
+
+#: inc/admin/theme-admin.php:89
+msgid "Block Themes vs Classic Themes: 4 Key Differences"
+msgstr ""
+
+#: functions.php:140
+msgid "Blog Posts"
+msgstr ""
+
+#: functions.php:64 functions.php:72
+msgid "Border"
+msgstr ""
+
+#: inc/admin/theme-admin.php:77
+msgid "Coming Soon: Inspiro Blocks PRO!"
+msgstr ""
+
+#: inc/admin/theme-admin.php:88
+msgid ""
+"Currently, there is a Premium version only for the Inspiro Classic theme, "
+"which integrates the Elementor page builder and doesn't support the Full "
+"Site Editor. A new PRO version that supports the Full Site Editor will soon "
+"be released."
+msgstr ""
+
+#: inc/admin/theme-admin.php:49
+msgid "Designed by "
+msgstr ""
+
+#: functions.php:86
+msgid "Fill"
+msgstr ""
+
+#: functions.php:87
+msgid "Fill Background"
+msgstr ""
+
+#: functions.php:124
+msgid "Footer"
+msgstr ""
+
+#: functions.php:65
+msgid "Full-height"
+msgstr ""
+
+#: inc/admin/theme-admin.php:79
+msgid ""
+"Get Access to More Demos, Patterns, Header & Footer Layouts with the PRO "
+"Version!"
+msgstr ""
+
+#: inc/admin/theme-admin.php:69
+msgid "Get Inspiro Premium"
+msgstr ""
+
+#: inc/admin/theme-admin.php:100
+msgid "Get Inspiro Premium!"
+msgstr ""
+
+#: inc/admin/theme-admin.php:102
+msgid "Get the Premium Version &rarr;"
+msgstr ""
+
+#: inc/admin/theme-admin.php:64
+msgid "Getting Started"
+msgstr ""
+
+#: functions.php:132
+msgid "Header"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.wpzoom.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.wpzoom.com/themes/inspiro-blocks/"
+msgstr ""
+
+#. Name of the theme
+msgid "Inspiro Blocks"
+msgstr ""
+
+#: inc/admin/theme-admin.php:69 inc/admin/theme-admin.php:114
+msgid "Inspiro Blocks Documentation"
+msgstr ""
+
+#: inc/admin/theme-admin.php:19
+msgid "Inspiro Blocks Getting Started"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Inspiro Blocks is a Block theme that is fully compatible with the new Full "
+"Site Editor. The theme includes unique page templates, block patterns, and "
+"color styles that can be customized to create a beautiful website. With "
+"Inspiro Blocks, you can easily build and design a website by simply dragging "
+"and dropping blocks into pages. The theme offers a modern and minimalist "
+"design that is perfect for bloggers, photographers, creatives, and small "
+"businesses. Inspiro Blocks is also an excellent choice for portfolio sites "
+"as it includes video and portfolio integration. This makes it easy for users "
+"to showcase their work and create a professional portfolio website. With the "
+"portfolio integration feature, users can display their projects in a grid or "
+"masonry layout. These features make Inspiro Blocks a great option for "
+"photographers, videographers, designers, and other creatives who want to "
+"showcase their work in a visually appealing way. The theme is fully GDPR-"
+"compliant and doesn't use any external Google Fonts. All fonts are locally "
+"hosted. The theme bundles 6 Color Schemes and 20+ Block Patterns. DEMO "
+"CONTENT &amp; Documentation can be found here: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+" &#10132; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.wpzoom."
+"com/documentation/inspiro-blocks/"
+msgstr ""
+
+#: inc/admin/theme-admin.php:66
+msgid ""
+"Inspiro Blocks is the Full Site Editing version (Block theme) of the popular "
+"Inspiro theme. This version of the theme supports the new Full Site Editor. "
+"Using the new Site Editor, you have complete control over the design of your "
+"website without using any 3rd party page builders which slow down your "
+"website. You can now change not just the colors and fonts in your theme but "
+"also make changes to the layout and global sections like the header and "
+"footer."
+msgstr ""
+
+#: inc/admin/theme-admin.php:81
+msgid ""
+"Inspiro Blocks PRO will include multiple starter site to build any type of "
+"website you want. We'll also add more block patterns and page templates. "
+"Subscribe to our newsletter to hear the first when the PRO version is "
+"available!"
+msgstr ""
+
+#: inc/admin/theme-admin.php:20
+msgid "Inspiro Blocks Theme"
+msgstr ""
+
+#: inc/admin/theme-admin.php:111
+msgid "Inspiro Premium"
+msgstr ""
+
+#: functions.php:119 inc/admin/theme-admin.php:45 inc/admin/theme-admin.php:62
+#: inc/admin/theme-admin.php:75
+msgid "inspiro-blocks"
+msgstr ""
+
+#: inc/admin/theme-admin.php:129
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/admin/theme-admin.php:101
+msgid ""
+"Looking to do more with Inspiro? Get the Premium version of the Inspiro "
+"Classic theme to get instant access to 9 Starter Sites, Portfolio with Video "
+"Integration, and more!"
+msgstr ""
+
+#: functions.php:80
+msgid "No Disc"
+msgstr ""
+
+#: patterns/hidden-404.php:9
+msgid "Not found, error 404"
+msgstr ""
+
+#: patterns/hidden-404.php:12
+msgid ""
+"Oops, the page you are looking for does not exist or is no longer available. "
+"Everything is still awesome. Just use the search form to find your way."
+msgstr ""
+
+#: functions.php:88
+msgid "Outline"
+msgstr ""
+
+#: functions.php:89
+msgid "Outline Background"
+msgstr ""
+
+#: functions.php:136
+msgid "Pages"
+msgstr ""
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:74
+msgid "Pull left"
+msgstr ""
+
+#: functions.php:73
+msgid "Pull right"
+msgstr ""
+
+#: functions.php:68
+msgid "Rounded"
+msgstr ""
+
+#: functions.php:128
+msgid "Sections"
+msgstr ""
+
+#: functions.php:63 functions.php:71 functions.php:77 functions.php:83
+msgid "Shadow"
+msgstr ""
+
+#: inc/admin/theme-admin.php:131
+msgid "Submit a review"
+msgstr ""
+
+#: inc/admin/theme-admin.php:84
+msgid "Subscribe to our Newsletter &rarr;"
+msgstr ""
+
+#: inc/admin/theme-admin.php:117
+msgid "Support"
+msgstr ""
+
+#: inc/admin/theme-admin.php:107
+msgid "Useful Links"
+msgstr ""
+
+#: inc/admin/theme-admin.php:123
+msgid "View our Premium Plugins"
+msgstr ""
+
+#: inc/admin/theme-admin.php:120
+msgid "View our Premium Themes"
+msgstr ""
+
+#. Author of the theme
+#: inc/admin/theme-admin.php:50
+msgid "WPZOOM"
+msgstr ""

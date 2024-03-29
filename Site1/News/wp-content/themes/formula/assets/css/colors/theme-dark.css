@@ -1,0 +1,278 @@
+/* :root {
+    --thm-primary: #d82148;
+	Formula Theme css
+} */
+
+
+
+/******** Common ********/
+body.theme-dark .section-header .section-title {
+	color: var(--thm-light);
+}
+
+.theme-dark h1,
+.theme-dark h2,
+.theme-dark h3,
+.theme-dark h4,
+.theme-dark h5,
+.theme-dark h6 {
+    color: var(--thm-light);
+}
+
+/******** Menu ********/
+body.theme-dark .header .menu>li>.sub-menu, 
+body.theme-dark .header .menu>li>.sub-menu li>.sub-menu {
+	background-color: var(--thm-black);
+}
+
+body.theme-dark .header .menu>li>ul.sub-menu>li>a,
+body.theme-dark .menu-modal .menu>li>.sub-menu>li>.ancestor-wrapper>a, 
+body.theme-dark .header .menu>li>ul.sub-menu>li .sub-menu>li>a, 
+body.theme-dark .menu-modal .menu>li>ul.sub-menu>li>.sub-menu>li>.ancestor-wrapper>a {
+	color: var(--thm-gray);
+}
+
+/*-- Mobile Menu --*/
+@media only screen and (max-width: 992px) {
+	body.theme-dark .menu-modal.navbar {
+		background-color: var(--thm-black);
+	}
+	body.theme-dark .menu-modal-inner {
+		background-color: var(--thm-black);
+	}
+	body.theme-dark .menu-modal.navbar .menu>li a {
+		color: var(--thm-light);
+	}
+	body.theme-dark .menu-modal.navbar .menu>li {
+		border:none;
+	}
+	body.theme-dark .menu-modal.navbar .menu>li>.sub-menu>li>.ancestor-wrapper>a {
+		border:none;
+	}
+}
+
+/******** Portfolio ********/
+body.theme-dark .portfolio {
+	background-color: var(--thm-black);
+}
+
+/******** Service ********/
+body.theme-dark .service {
+	background-color: var(--thm-black);
+}
+body.theme-dark .service .post {
+	background-color: var(--thm-gray-rgb);
+}
+body.theme-dark .service .post:hover {
+	background-color: var(--thm-primary);
+}
+
+
+
+/******** Team ********/
+body.theme-dark .team {
+	background-color: var(--thm-black);
+}
+
+.theme-dark .team-caption {
+    background-color: var(--thm-gray-rgb);
+}
+
+.theme-dark .team-caption .name {
+    color: var(--thm-base);
+}
+
+
+/******** Testimonial ********/
+body.theme-dark .testimonial {
+	background-color: var(--thm-black);
+}
+body.theme-dark .testimonial .review {
+	background-color: var(--thm-gray-rgb);
+}
+body.theme-dark .testimonial .review .wt-title {
+	color: var(--thm-light);
+}
+body.theme-dark .testimonial .review p {
+	color: var(--thm-light);
+}
+body.theme-dark .testimonial .review .client-info span {
+	color: var(--thm-light);
+}
+body.theme-dark .testimonial .owl-carousel .owl-prev, body.theme-dark .testimonial .owl-carousel .owl-next {
+	background-color: var(--thm-black);
+}
+
+
+/******** Funfact ********/
+body.theme-dark .funfact {
+	background-color: var(--thm-black);
+}
+body.theme-dark .funfact-inner {
+	background-color: var(--thm-gray-rgb);
+}
+
+/******** Blog ********/
+body.theme-dark .home-news.blog {
+	background-color: var(--thm-black-rgb);
+}
+
+body.theme-dark .home-news.blog::after {
+	background-color:var(--thm-black);
+}
+body.theme-dark .home-news.blog .blog-head {
+	background-color: var(--thm-gray-rgb);
+}
+
+body.theme-dark .home-news.blog .full-content {
+	background-color: var(--thm-black);
+}
+
+/******** Sponsors ********/
+body.theme-dark .sponsors {
+	background-color:var(--thm-black);
+}
+
+.sponsors .item img {
+	opacity: 0.7;
+}
+
+/******** Footer ********/
+body.theme-dark .footer {
+	background-color: var(--thm-black-rgb);
+}
+
+/*******PAGES********/
+/*******About********/
+body.theme-dark #section.about {
+	background-color: var(--thm-black);
+}
+/*******Blog Grid********/
+body.theme-dark #section.blog-grid {
+	background-color: var(--thm-black);
+}
+/*******Blog With Sidebars & Full Width ********/
+body.theme-dark #section.blog-grid {
+	background-color: var(--thm-black);
+}
+body.theme-dark #section.site-content {
+	background-color: var(--thm-black);
+}
+body.theme-dark #section.site-content .sidebar .widget {
+	background-color: var(--thm-black-rgb);
+}
+body.theme-dark #section.site-content .blog .full-content {
+	background-color: var(--thm-black);
+}
+body.theme-dark #section.site-content .blog .post .entry-header .entry-title a {
+	color: var(--thm-light);
+}
+
+/*******Conatact********/
+body.theme-dark #section.contact {
+	background-color: var(--thm-black);
+}
+body.theme-dark #section.contact .about-social-icons a {
+	background-color: var(--thm-black);
+}
+body.theme-dark #section.contact .contact-location {
+	background-color: var(--thm-black);
+}
+body.theme-dark #section.contact .contact-location .location-title {
+	color: var(--thm-light);
+}
+
+/*******Blog Pages********/
+.theme-dark .blog .entry-content a{
+	color: var(--thm-light);
+}
+body.theme-dark #section.site-content .blog .post .entry-header .entry-title a:hover{
+	color: var(--thm-primary);
+}
+body.theme-dark #section.site-content .blog .post .cat-links a:hover{
+	color: var(--thm-primary);
+}
+body.theme-dark .blog-grid .full-content{
+	background-color: var(--thm-black-rgb);
+}
+body.theme-dark .blog-grid .blog-head{
+	background-color: var(--thm-gray-rgb);
+}
+
+
+/*******Widegt*********/
+./* widget h1, .widget h2, .widget h3, .widget h4, .widget h5, .widget h6 {
+	color:  var(--thm-light) !important;
+} */
+
+.widget li a, 
+.widget_archive li a, 
+.widget_categories li a, 
+.widget_links li a, 
+.widget_meta li a, 
+.widget_nav_menu li a, 
+.widget_pages li a, 
+.widget_recent_comments li a, 
+.widget_recent_entries li a {
+	color:  var(--thm-light);
+}
+
+.theme-dark .comment-form-section form input,
+.theme-dark .comment-form-section form textarea,
+.theme-dark .comment-respond form textarea {
+	background: #000000 !important;
+}
+.theme-dark .comment-title h3{
+	color:  var(--thm-light);
+}
+.theme-dark .comment-section {
+	background-color: var(--thm-black);
+}
+.theme-dark .blog-author {
+	background-color: var(--thm-black-rgb);
+}
+
+/*******Woocommerce*********/
+.theme-dark ul.products li.product .price{
+	color: var(--thm-light) !important;
+}
+.theme-dark .woocommerce table.shop_table thead, 
+.theme-dark .woocommerce-page table.shop_table thead {
+    background-color: var(--thm-gray-rgb);
+}
+.theme-dark .woocommerce-error,
+.theme-dark .woocommerce-info,
+.theme-dark .woocommerce-message {
+    background-color: var(--thm-gray-rgb);
+}
+
+.theme-dark .woocommerce input[type=text],
+.theme-dark .woocommerce input[type=url],
+.theme-dark .woocommerce textarea,
+.theme-dark .woocommerce-page form .form-row textarea,
+.theme-dark .woocommerce-page input[type=email],
+.theme-dark .woocommerce-page input[type=number],
+.theme-dark .woocommerce-page input[type=password],
+.theme-dark .woocommerce-page input[type=reset],
+.theme-dark .woocommerce-page input[type=search],
+.theme-dark .woocommerce-page input[type=tel],
+.theme-dark .woocommerce-page input[type=text],
+.theme-dark .woocommerce-page input[type=url],
+.theme-dark .woocommerce-page textarea {
+	background-color: var(--thm-gray-rgb) !important;
+}
+
+.theme-dark .woocommerce .select2-container .select2-selection--single,
+.theme-dark .woocommerce select,
+.theme-dark .woocommerce-page .select2-container .select2-selection--single,
+.theme-dark .woocommerce-page select {
+	background-color: var(--thm-gray-rgb);
+}
+.theme-dark #add_payment_method #payment, 
+.theme-dark .woocommerce-cart #payment,
+.theme-dark .woocommerce-checkout #payment{
+	background-color: var(--thm-gray-rgb);
+}
+.theme-dark .select2-dropdown{
+	background-color: var(--thm-black);
+}

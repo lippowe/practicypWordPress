@@ -1,0 +1,55 @@
+/*
+Theme Name: Formula Light
+Theme URI: https://awplife.com/wordpress-themes/formula-premium/
+Template: formula
+Author: A WP Life
+Author URI: http://awplife.com/
+Description: Lightning Fast Speed and Responsive Theme. Formula Light is a responsive and fully customizable theme to create any kind of websites.This theme is lightweight, it will enable you to create almost any type of website such a Personal Blogging, Fitness, Fashion and Style, Language Learning, Gaming, eSports, Podcasting, Personal Branding, Creative and Artistic, News and Journalism, Event Management, Pet Care and Services, Social Media and Marketing, Home Interior Design, Decoration, Art and Photography, Cryptocurrency and Blockchain, Job Portal and Recruitment, Agriculture, Farming Machine, Building and Construction, body Beauty, Nature and Environment, Tree and Plants, Market and E-commerce, Trending Topics, Trending News, Technology and Gadgets, Food, Charity and Non-Profit, Political, Real Estate and Property, Travel and Tourism, Education Learning, Health, Medical, Family, Culture, Restaurant, Hotel, Magazine, Business, Finance, Consultant, Science, Innovation and many more. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and many more. If you are looking for a Light and easy to use theme, don´t go astray. You just found it!
+Tags: blog,portfolio,news,grid-Layout,one-column,two-columns,three-columns,left-sidebar,right-sidebar,custom-background,custom-colors,custom-logo,custom-menu,featured-images,footer-widgets,full-width-template,post-formats,rtl-language-support,sticky-post,translation-ready
+Version: 0.0.6
+Tested up to: 6.4
+Requires PHP: 5.4
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: formula-light
+*/
+
+
+
+/*--------------------------------------------------------------
+# Index
+--------------------------------------------------------------*/
+.blog-head {
+    /* background-color: #0f0d1de8; */
+    position: relative;
+    display: block;
+    margin-top: auto;
+    margin-left: 0px;
+    padding: 10px 17px 10px;
+    transition: all 500ms ease;
+}
+
+.blog .full-content {
+    margin-left: 0px !important;
+    padding: 10px 20px 10px !important;
+}
+
+.blog .entry-title {
+    font-size: 22px;
+    font-weight: 500;
+}
+.theme-dark .comment-form-section {
+    padding: 10px 20px 10px;
+    background-color: var(--thm-black);
+}
+
+.theme-light .comment-form-section {
+    padding: 10px 20px 10px;
+    background-color: var(--thm-base);
+}
+.comment-section {
+    padding: 10px 20px 10px;
+}
+
+
+

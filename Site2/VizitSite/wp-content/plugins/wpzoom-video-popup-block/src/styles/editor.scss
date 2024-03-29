@@ -1,0 +1,52 @@
+.wpzoom-video-popup-block-inspector {
+	margin: 0;
+
+	.video-url-input {
+		margin: 0;
+
+		.video-source-radio {
+			label > div {
+				display: inline;
+			}
+		}
+
+		.preview-image {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			background-color: rgba(0, 0, 0, 0.05);
+			min-height: 0;
+			max-height: 0;
+			padding: 0;
+			border: 0 solid rgba(0, 0, 0, 0.05);
+			border-radius: 2px;
+			margin: 0;
+			overflow: hidden;
+			opacity: 0;
+			transition: all 0.5s ease;
+
+			&.show-preview {
+				min-height: 100px;
+				opacity: 1;
+				padding: 5px;
+				border-width: 1px;
+				margin: 8px 0 0;
+			}
+
+			img {
+				display: block;
+				width: 100%;
+				height: auto;
+				object-fit: contain;
+				object-position: center;
+			}
+
+			video {
+				width: 100%;
+				height: 100px;
+				object-fit: cover;
+				object-position: center;
+			}
+		}
+	}
+}

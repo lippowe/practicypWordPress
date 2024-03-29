@@ -1,0 +1,12 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_bosa-marketplace">
+            <key name="featured_pages_section_title" />
+            <key name="featured_pages_section_description" />
+            <key name="feature_posts_two_section_title" />
+            <key name="feature_posts_two_section_description" />
+            <key name="header_advertisement_text" />
+            <key name="category_title" />
+        </key>
+    </admin-texts>
+</wpml-config>

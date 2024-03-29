@@ -1,0 +1,214 @@
+# Translation of Themes - Tour Operator in Russian
+# This file is distributed under the same license as the Themes - Tour Operator package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-03 09:09:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Tour Operator\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Tour Operator is a child theme of Travel Agency free WordPress theme. This theme helps you create a fully functional, professional, and appealing travel booking websites in a matter of time without any prior coding knowledge or experience. This theme can be a perfect choice for all types of travel and tour operators. The fully responsive and mobile-friendly design of this theme ensures your website adjusts and display smoothly on any device or screen sizes. Tour Operator smoothly integrates popular WP Travel Engine WordPress plugin. It allows you to add trips, destinations, trip types, featured travel activities, highlight your specialties and even let your visitors book the trip right away. The appealing design, modern CSS effects, and animation of this theme will make your visitors feel like already being on a trip. Tour Operator theme is optimized for speed and SEO friendly which ensures higher ranking of your website in search engine results. This theme comes with various advanced and easy-to-use features to help you create a visually appealing, user-friendly, and interactive website in no time. The theme comes with three custom widgets which are popular trips, featured trips, and recent trips to help you showcase your travel services in a more appealing way. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. It is a translation ready theme and is designed with a focus on visitor engagement to generate maximum leads for your business. Besides travel booking companies, you can also use Tour Operator theme for travel blogging, hotel, spa, bed and breakfast, luxury resort, reservation, tour operator, tourism, transports, and car booking. Check the demo at https://rarathemes.com/previews/?theme=tour-operator/, documentation at https://docs.rarathemes.com/docs/tour-operator/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "Tour Operator - дочерняя тема бесплатной WordPress темы. Эта тема поможет вам создать полностью функциональные, профессиональные и привлекательные веб-сайты по бронированию путешествий в считанные сроки без каких-либо предварительных знаний в области кодирования или опыта. Эта тема может стать идеальным выбором для всех видов путешествий и туроператоров. Полностью отзывчивый и удобный для мобильных устройств дизайн этой темы обеспечивает плавную настройку и отображение веб-сайта на любом устройстве и на любом экране. Tour Operator плавно интегрирует популярный плагин WP Travel Engine WordPress. Это позволяет вам добавлять поездки, пункты назначения, типы поездок, рекомендуемые туристические мероприятия, выделять ваши особенности и даже позволить вашим посетителям забронировать поездку прямо сейчас. Привлекательный дизайн, современные CSS-эффекты и анимация этой темы позволят вашим посетителям почувствовать себя в поездке. Тема Tour Operator  оптимизирована для скорости и SEO, что обеспечивает более высокий рейтинг вашего сайта в результатах поиска. Эта тема поставляется с различными расширенными и простыми в использовании функциями, которые помогут вам создать визуально привлекательный, удобный и интерактивный веб-сайт в кратчайшие сроки. Тема поставляется с тремя пользовательскими виджетами, которые являются популярными поездками, популярными поездками и недавними поездками, чтобы помочь вам продемонстрировать свои туристические услуги в более привлекательной форме. Тема тщательно протестирована и оптимизирована для ускорения и ускорения загрузки страницы и имеет безопасный и чистый код. Это тема, готовая к переводу, и она разработана с акцентом на привлечение посетителей, чтобы максимально увеличить число потенциальных клиентов для вашего бизнеса помимо компаний, занимающихся бронированием путешествий, вы также можете использовать тему Tour Operator для ведения блогов о путешествиях, отелей, спа, размещения с завтраком, роскошного курорта, бронирования, туроператора, туризма, транспорта и бронирования автомобилей. Проверьте демо на https://demo.rarathemes.com/tour-operator/, документацию на https://docs.rarathemes.com/docs/tour-operator/ и получите поддержку на https://rarathemes.com/support-ticket/."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Tour Operator"
+msgstr "Tour Operator"
+
+#: functions.php:606
+msgid "Rara Themes"
+msgstr "Темы Rara"
+
+#: functions.php:460
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: functions.php:457
+msgid "CLOSE"
+msgstr "ЗАКРЫТЬ"
+
+#. translators: If there are characters in your language that are not supported
+#. by Nunito Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:72
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:605
+msgid "Tour Operator | Developed By "
+msgstr "Tour Operator | Разработано "
+
+#: functions.php:608
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: functions.php:608
+msgid " Powered by %s"
+msgstr "Сайт работает на %s"
+
+#: functions.php:571
+msgid "Click here"
+msgstr "Нажмите здесь"
+
+#: functions.php:571
+msgid "Download Demo Content"
+msgstr "Загрузить демо содержимое"
+
+#: functions.php:568
+msgid "Rara One Click Demo Import"
+msgstr "Rara One Click Demo Import"
+
+#: functions.php:568
+msgid "Plugin required"
+msgstr "Требуется плагин"
+
+#: functions.php:558
+msgid "About Demo Import"
+msgstr "О программе Demo Importer"
+
+#: functions.php:551
+msgid "Tour Operator comes with demo content import feature. You can import the demo content with just one click. For step-by-step video tutorial, %1$sClick here%2$s"
+msgstr "В комплект поставки Tour Operator входит функция импорта демонстрационного контента. Вы можете импортировать демо-контент всего одним щелчком мыши. Для пошагового видео-урока, %1$sНажмите тут%2$s"
+
+#: functions.php:539
+msgid "Demo Content Import"
+msgstr "Импорт демо-контента"
+
+#: functions.php:528
+msgid "About Tour Package"
+msgstr "Про пакет Tour"
+
+#: functions.php:522
+msgid "More Details"
+msgstr "Детали"
+
+#: functions.php:521
+msgid "Support ticket"
+msgstr "Служба поддержки"
+
+#: functions.php:520
+msgid "View documentation"
+msgstr "Смотреть документацию"
+
+#: functions.php:519 functions.php:520 functions.php:521 functions.php:522
+msgid "here"
+msgstr "здесь"
+
+#: functions.php:519
+msgid "View demo"
+msgstr "Смотреть демонстрацию"
+
+#: functions.php:518
+msgid "Need help?"
+msgstr "Нужна помощь?"
+
+#: functions.php:505
+msgid "Information Links"
+msgstr "Информационные ссылки"
+
+#: functions.php:452
+msgid "MENU"
+msgstr "МЕНЮ"
+
+#: functions.php:389
+msgid "Call us, we are open 24/7"
+msgstr "Позвоните нам, мы работаем круглосуточно и без выходных"
+
+#: functions.php:388
+msgid "(888) 123-45678"
+msgstr "(888) 123-45678"
+
+#: functions.php:293
+msgid "Enable to show social links in header."
+msgstr "Включить, чтобы показывать ссыли соцсети в заголовке."
+
+#: functions.php:292
+msgid "Social Links"
+msgstr "Ссылки соцсетей"
+
+#: functions.php:274
+msgid "Button Url"
+msgstr "URL кнопки"
+
+#: functions.php:248
+msgid "Enable to show search form in header."
+msgstr "Включить, чтобы показывать форму поиска в заголовке."
+
+#: functions.php:247
+msgid "Search Form"
+msgstr "Форма поиска"
+
+#: functions.php:230
+msgid "Button Label"
+msgstr "Этикетка кнопки"
+
+#: functions.php:204
+msgid "Add phone label in header."
+msgstr "Добавьте этикетку телефона в заголовок."
+
+#: functions.php:203
+msgid "Phone Label"
+msgstr "Этикетка телефона"
+
+#: functions.php:179
+msgid "Add phone number in header."
+msgstr "Добавить номер телефона в заголовок."
+
+#: functions.php:178
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: functions.php:154
+msgid "Add email in header."
+msgstr "Добавить email в заголовок."
+
+#: functions.php:153
+msgid "Email"
+msgstr "Email"
+
+#: functions.php:129
+msgid "Add working hour in header."
+msgstr "Добавить часы работы в заголовок."
+
+#: functions.php:128
+msgid "Work Hour"
+msgstr "Часы роботы"
+
+#: functions.php:28
+msgid "Default Header Image"
+msgstr "Изображение заголовка по умолчанию"
+
+#: functions.php:220 functions.php:358 sections/banner.php:10
+#: sections/banner.php:11
+msgid "Get Started"
+msgstr "Приступить к работе"
+
+#: sections/banner.php:9
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "Найдите для себя отличные приключенческие праздники и развлечения по всей планете."
+
+#: sections/banner.php:8
+msgid "Find Your Best Holiday"
+msgstr "Найди свой лучший отдых"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/wordpress-themes/tour-operator/"
+msgstr "https://rarathemes.com/wordpress-themes/tour-operator/"

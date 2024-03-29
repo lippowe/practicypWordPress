@@ -1,0 +1,77 @@
+{
+	"$schema":      "https://json.schemastore.org/block.json",
+	"apiVersion":   2,
+	"name":         "wpzoom-video-popup-block/block",
+	"title":        "WPZOOM Video Popup Block",
+	"textdomain":   "wpzoom-video-popup-block",
+	"icon":         "video-alt3",
+	"category":     "wpzoom-blocks",
+	"keywords":     [ "video", "popup", "block", "wpzoom", "lightbox", "youtube", "vimeo", "interactive", "click", "customization" ],
+	"attributes":   {
+		"source":          {
+			"type":    "string",
+			"default": "service"
+		},
+		"url":             {
+			"type":    "string",
+			"default": ""
+		},
+		"libraryId":       {
+			"type":    "integer",
+			"default": -1
+		},
+		"text":            {
+			"type":    "string",
+			"default": "Play"
+		},
+		"position":    {
+			"type":    "string",
+			"default": ""
+		},
+		"icon":            {
+			"type":    "integer",
+			"default": 1
+		},
+		"iconColor":       {
+			"type":    "string",
+			"default": ""
+		},
+		"iconSize":        {
+			"type":    "string",
+			"default": ""
+		}
+	},
+	"supports":     {
+		"html":                 false,
+		"align":                true,
+		"color":                {
+			"background":                  true,
+			"gradients":                   false,
+			"text":                        true
+		},
+		"spacing":              {
+			"padding":                     true,
+			"margin":                      true
+		},
+		"__experimentalBorder": {
+			"radius":                      true,
+			"width":                       true,
+			"color":                       true,
+			"style":                       true
+		},
+		"typography":           {
+			"fontSize":                    true,
+			"lineHeight":                  true,
+			"__experimentalFontFamily":    true,
+			"__experimentalFontStyle":     true,
+			"__experimentalFontWeight":    true,
+			"__experimentalLetterSpacing": true,
+			"__experimentalTextTransform": true
+		}
+	},
+	"example":      {},
+	"script":       "file:./dist/scripts/frontend.js",
+	"editorScript": "file:./dist/scripts/editor.js",
+	"style":        "file:./dist/styles/frontend.css",
+	"editorStyle":  "file:./dist/styles/editor.css"
+}
