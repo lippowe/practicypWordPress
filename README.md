@@ -22,6 +22,7 @@
 ![image](https://github.com/lippowe/practicypWordPress/assets/137700569/d19af588-90ae-4a9c-b49d-951e58be2563)
 ![image](https://github.com/lippowe/practicypWordPress/assets/137700569/4e1def04-e4ff-425a-b13c-1c0ac2ba6a61)
 ![image](https://github.com/lippowe/practicypWordPress/assets/137700569/9aa92867-225f-45fb-9534-421dbc41e4a7)
+![image](https://github.com/lippowe/practicypWordPress/assets/137700569/c47f0a1e-caa4-4269-8f60-e9d9d153f92a)
 ![image](https://github.com/lippowe/practicypWordPress/assets/137700569/d37565fa-04c6-4f92-a278-a2d3cfb79836)
 ![image](https://github.com/lippowe/practicypWordPress/assets/137700569/171a1f0b-6ed8-4c6a-9320-ec92470f36a4)
 
